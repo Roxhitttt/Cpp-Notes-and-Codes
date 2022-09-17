@@ -1,8 +1,8 @@
-# Cpp Notes and Codes
+###########Cpp Notes and Codes
 
-I am going to take notes of C++ here
+#######I am going to take notes of C++ here
 -------------------------------------------------------------------------
-Arithmatic Operators:=
+###Arithmatic Operators:=
 +          Addition Operator.
 -          Substraction Operator.
 *          Multiplication Operator.
@@ -10,7 +10,7 @@ Arithmatic Operators:=
 %          Modulus Operator.
 
 --------------------------------------------------------------------------
-Relational Operators:=
+###Relational Operators:=
 Operation        Name              Example              Description
 >             Greater than          a>b                 if a>b then it returns 1 otherwise it returns 0.
 
