@@ -29,7 +29,7 @@ Operation        Name              Example              Description
 
 ------------------------------------------------------------------------
 
-##### If__Else statement:=
+##### ** If__Else statement:= **
       if else is used for checking the condition, if it is true then if block get execute otherwise else block get execute.
       
 Amstrong Number- 3 digit number or 4 digit number | Then cube or individual number betweeen them | Then addition of cube of these 3 digit numbers | gives the answer of same 3 digit number.
@@ -41,4 +41,6 @@ n2=r1/100    = 9
 r2=r1%100    = 27
 n3=r2/10     = 2
 n4= r2%10    =7
+
+
 
