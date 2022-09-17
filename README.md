@@ -3,9 +3,9 @@
 ### _**I am going to take notes of C++ here**_
 -------------------------------------------------------------------------
 #####  _**Arithmatic Operators:=**_
--    +          Addition Operator.
--    -          Substraction Operator.
--    *          Multiplication Operator.
+-    plus          Addition Operator.
+-    minus          Substraction Operator.
+-    multiply          Multiplication Operator.
 -    /          Divisin Operator.
 -    %          Modulus Operator.
 
