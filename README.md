@@ -13,7 +13,7 @@
 
 
 ##### _**Relational Operators:=**_
-     | Name | Example | Description |
+       Name | Example | Description |
      | --- | --- | --- |
      | Greater than | a>b | if a>b then it returns 1 otherwise it returns 0. |
      | Less than | a<b | if a<b then it returns 1 otherwise it returns 0. |
