@@ -2,12 +2,12 @@
 
 ### _**I am going to take notes of C++ here**_
 -------------------------------------------------------------------------
-##### _**Arithmatic Operators:=**_
-1. +          Addition Operator.
-2. -          Substraction Operator.
-3. *          Multiplication Operator.
-4. /          Divisin Operator.
-5. %          Modulus Operator.
+#####  _**Arithmatic Operators:=**_
+1.    +          Addition Operator.
+2.    -          Substraction Operator.
+3.    *          Multiplication Operator.
+4.    "/"          Divisin Operator.
+5.    "%"          Modulus Operator.
 
 --------------------------------------------------------------------------
 ##### _**Relational Operators:=**_
