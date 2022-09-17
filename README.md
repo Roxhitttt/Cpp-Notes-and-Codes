@@ -34,7 +34,7 @@ Operation        Name              Example              Description
        
 `Amstrong Number- 3 digit number or 4 digit number | Then cube or individual number betweeen them | Then addition of cube of these 3 digit numbers | gives the answer of same 3 digit number.`
 
-- [] n=4297
+- [x] n=4297
 - n1=n/1000    = 4
 - r1=n%1000    = 927
 - n2=r1/100    = 9
