@@ -12,9 +12,9 @@
 [(https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Arithmatic_operator.cpp)]
 --------------------------------------------------------------------------
 ##### _**Relational Operators:=**_
-     |            Name         |     Example      |        Description
-     |            ---          |     ---          |         ------
-     |         Greater than    |    a>b          |     if a>b then it returns 1 otherwise it returns 0.
+     |            Name         |     Example      |        Description |
+     |            ---          |     ---          |         ------|
+     |         Greater than    |    a>b           |     if a>b then it returns 1 otherwise it returns 0. |
 
               Less than             a<b                 if a<b then it returns 1 otherwise it returns 0.
 
