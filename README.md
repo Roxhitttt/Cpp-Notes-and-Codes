@@ -11,19 +11,20 @@
 
 [(https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Arithmatic_operator.cpp)]
 
+-------------------------------------------------------------------------
 
 ##### _**Relational Operators:=**_
 
-     |  Name | Example | Description |
-     | --- | --- | --- |
-     | Greater than | a>b | if a>b then it returns 1 otherwise it returns 0 |
-     | Less than | a<b | if a<b then it returns 1 otherwise it returns 0 |
-     | Greater than or equal to | a>=b | if a>=b then it will return 1 otherwise return 0 |
-     | Less than or equal to | a<=b | if a<=b then it will return 1 otherwise return 0 |
-     | Equal to  Equal to | a==b | if a==b then it will return 1 otherwise it will return 0 |
-     | Not equal to | a!=b | if a is not equal to b then it will return 1 otherwise it will return 0 |
+|  Name | Example | Description |
+| --- | --- | --- |
+| Greater than | a>b | if a>b then it returns 1 otherwise it returns 0 |
+| Less than | a<b | if a<b then it returns 1 otherwise it returns 0 |
+| Greater than or equal to | a>=b | if a>=b then it will return 1 otherwise return 0 |
+| Less than or equal to | a<=b | if a<=b then it will return 1 otherwise return 0 |
+| Equal to  Equal to | a==b | if a==b then it will return 1 otherwise it will return 0 |
+| Not equal to | a!=b | if a is not equal to b then it will return 1 otherwise it will return 0 |
      
-     
+-------------------------------------------------------------------------    
 
 ##### _**If__Else statement:=**_
 
@@ -45,12 +46,3 @@ Amstrong Number- 3 digit number or 4 digit number | Then cube or individual numb
 ![taoo](https://user-images.githubusercontent.com/62470301/190870650-c1e368a0-2da5-4e52-86c3-039a3bb1a364.jpg)
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
- Command | Description |
-| --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
