@@ -6,17 +6,17 @@
 1.    +          Addition Operator.
 2.    -          Substraction Operator.
 3.    *          Multiplication Operator.
-4.             Divisin Operator.
+-    /        Divisin Operator.
 5.              Modulus Operator.
 
 --------------------------------------------------------------------------
 ##### _**Relational Operators:=**_
 Operation        Name              Example              Description
-1]  >             Greater than          a>b                 if a>b then it returns 1 otherwise it returns 0.
+1.  >             Greater than          a>b                 if a>b then it returns 1 otherwise it returns 0.
 
-<             Less than             a<b                 if a<b then it returns 1 otherwise it returns 0.
+2. <             Less than             a<b                 if a<b then it returns 1 otherwise it returns 0.
 
->=            Greater than          a>=b                if a>=b then it will return 1 otherwise return 0.
+3. >=            Greater than          a>=b                if a>=b then it will return 1 otherwise return 0.
               or equal to
  
 <=            Less than             a<=b                if a<=b then it will return 1 otherwise return 0.
