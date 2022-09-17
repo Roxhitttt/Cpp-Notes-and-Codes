@@ -3,11 +3,11 @@
 ### _**I am going to take notes of C++ here**_
 -------------------------------------------------------------------------
 ##### _**Arithmatic Operators:=**_
-+          Addition Operator.
--          Substraction Operator.
-*          Multiplication Operator.
-/          Divisin Operator.
-%          Modulus Operator.
+1. +          Addition Operator.
+2. -          Substraction Operator.
+3. *          Multiplication Operator.
+4. /          Divisin Operator.
+5. %          Modulus Operator.
 
 --------------------------------------------------------------------------
 ##### _**Relational Operators:=**_
