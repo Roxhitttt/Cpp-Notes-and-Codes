@@ -36,11 +36,11 @@ Operation        Name              Example              Description
 
 1. n=4297
   2. n1=n/1000    = 4
-    3.r1=n%1000    = 927
-      4.n2=r1/100    = 9
-        5.r2=r1%100    = 27
-          6.n3=r2/10     = 2
-            7.n4= r2%10    =7
+    3. r1=n%1000    = 927
+      4. n2=r1/100    = 9
+        5. r2=r1%100    = 27
+          6. n3=r2/10     = 2
+            7. n4= r2%10    =7
 
 [(https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)]
 
