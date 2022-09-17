@@ -44,3 +44,5 @@ n4= r2%10    =7
 
 [(https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)]
 
+![image-rendered](https://user-images.githubusercontent.com/62470301/190869632-57ce4d46-ea60-4249-9706-8bd701b945d5.png)
+
