@@ -1,8 +1,8 @@
 # Cpp Notes and Codes
 
-### I am going to take notes of C++ here
+### _**I am going to take notes of C++ here**_
 -------------------------------------------------------------------------
-##### Arithmatic Operators:=
+##### _**Arithmatic Operators:=**_
 +          Addition Operator.
 -          Substraction Operator.
 *          Multiplication Operator.
@@ -10,7 +10,7 @@
 %          Modulus Operator.
 
 --------------------------------------------------------------------------
-##### Relational Operators:=
+##### _**Relational Operators:=**_
 Operation        Name              Example              Description
 >             Greater than          a>b                 if a>b then it returns 1 otherwise it returns 0.
 
@@ -29,9 +29,9 @@ Operation        Name              Example              Description
 
 ------------------------------------------------------------------------
 
-##### If__Else statement:=
-**      if else is used for checking the condition, if it is true then if block get execute otherwise else block get execute.
-**      
+##### _**If__Else statement:=**_
+       if else is used for checking the condition, if it is true then if block get execute otherwise else block get execute.
+       
 Amstrong Number- 3 digit number or 4 digit number | Then cube or individual number betweeen them | Then addition of cube of these 3 digit numbers | gives the answer of same 3 digit number.
 
 n=4297
