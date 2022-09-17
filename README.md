@@ -1,6 +1,6 @@
 # Cpp Notes and Codes
 
-###I am going to take notes of C++ here
+### I am going to take notes of C++ here
 -------------------------------------------------------------------------
 ##### Arithmatic Operators:=
 +          Addition Operator.
