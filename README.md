@@ -13,9 +13,9 @@
 
 
 ##### _**Relational Operators:=**_
-     |            Name         |     Example      |        Description                                                       |
-     |-------------------------|------------------|--------------------------------------------------------------------------
-     |         Greater than    |    a>b           |     if a>b then it returns 1 otherwise it returns 0.                     |
+     | Name | Example | Description |
+     | --- | --- | --- |
+     | Greater than | a>b | if a>b then it returns 1 otherwise it returns 0. |
      |        Less than        |      a<b         |       if a<b then it returns 1 otherwise it returns 0.                   |
      |      Greater than       |    a>=b          |     if a>=b then it will return 1 otherwise return 0.                    |
                  or equal to                                                                         
@@ -52,4 +52,7 @@ Amstrong Number- 3 digit number or 4 digit number | Then cube or individual numb
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-
+ Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
