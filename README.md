@@ -1,4 +1,4 @@
-# `#0d1117` Cpp Notes and Codes
+#  Cpp Notes and Codes
 
 ### _**I am going to take notes of C++ here**_
 -------------------------------------------------------------------------
@@ -42,5 +42,5 @@ r2=r1%100    = 27
 n3=r2/10     = 2
 n4= r2%10    =7
 
-
+[(https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)]
 
