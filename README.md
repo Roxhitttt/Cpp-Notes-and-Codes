@@ -46,3 +46,10 @@ Amstrong Number- 3 digit number or 4 digit number | Then cube or individual numb
 
 ![taoo](https://user-images.githubusercontent.com/62470301/190870650-c1e368a0-2da5-4e52-86c3-039a3bb1a364.jpg)
 
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
