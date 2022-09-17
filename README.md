@@ -6,8 +6,8 @@
 -    +          Addition Operator.
 -    -          Substraction Operator.
 -    *          Multiplication Operator.
--    /        Divisin Operator.
--              Modulus Operator.
+-    /          Divisin Operator.
+-    %          Modulus Operator.
 
 --------------------------------------------------------------------------
 ##### _**Relational Operators:=**_
