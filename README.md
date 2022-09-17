@@ -3,29 +3,29 @@
 ### _**I am going to take notes of C++ here**_
 -------------------------------------------------------------------------
 #####  _**Arithmatic Operators:=**_
-1.    +          Addition Operator.
-2.    -          Substraction Operator.
-3.    *          Multiplication Operator.
+-    +          Addition Operator.
+-    -          Substraction Operator.
+-    *          Multiplication Operator.
 -    /        Divisin Operator.
-5.              Modulus Operator.
+-              Modulus Operator.
 
 --------------------------------------------------------------------------
 ##### _**Relational Operators:=**_
 Operation        Name              Example              Description
-1.  >             Greater than          a>b                 if a>b then it returns 1 otherwise it returns 0.
+-  >             Greater than          a>b                 if a>b then it returns 1 otherwise it returns 0.
 
-2. <             Less than             a<b                 if a<b then it returns 1 otherwise it returns 0.
+- <             Less than             a<b                 if a<b then it returns 1 otherwise it returns 0.
 
-3. >=            Greater than          a>=b                if a>=b then it will return 1 otherwise return 0.
+- >=            Greater than          a>=b                if a>=b then it will return 1 otherwise return 0.
               or equal to
  
-<=            Less than             a<=b                if a<=b then it will return 1 otherwise return 0.
+- <=            Less than             a<=b                if a<=b then it will return 1 otherwise return 0.
               or equal to   
 
-==            Equal to              a==b                if a==b then it will return 1 otherwise it will return 0.
+- ==            Equal to              a==b                if a==b then it will return 1 otherwise it will return 0.
               Equal to         
 
-!=            Not equal to          a!=b                if a is not equal to b then it will return 1 otherwise it will return 0.
+- !=            Not equal to          a!=b                if a is not equal to b then it will return 1 otherwise it will return 0.
 
 ------------------------------------------------------------------------
 
