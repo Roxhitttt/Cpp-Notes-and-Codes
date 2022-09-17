@@ -9,7 +9,7 @@
 -    /          Divisin Operator.
 -    %          Modulus Operator.
 
-https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Arithmatic_operator.cpp
+"https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Arithmatic_operator.cpp>
 --------------------------------------------------------------------------
 ##### _**Relational Operators:=**_
 -                    Name              Example              Description
