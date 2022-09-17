@@ -32,7 +32,7 @@ Operation        Name              Example              Description
 ##### _**If__Else statement:=**_
        if else is used for checking the condition, if it is true then if block get execute otherwise else block get execute.
        
-Amstrong Number- 3 digit number or 4 digit number | Then cube or individual number betweeen them | Then addition of cube of these 3 digit numbers | gives the answer of same 3 digit number.
+`Amstrong Number- 3 digit number or 4 digit number | Then cube or individual number betweeen them | Then addition of cube of these 3 digit numbers | gives the answer of same 3 digit number.`
 
 n=4297
 n1=n/1000    = 4
