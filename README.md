@@ -88,14 +88,53 @@ if b=7  binary of 7 is 0111
                        
                        0010   Gives 2
 
+`Here is the code on Logical Operator = `
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/541bcba7f666193f2acf75054da9839327672a7b/Basic_programs/Bit_wise_Operator.cpp
+__________________________________________________________
+Example 1- `Write a c++ program for the Selection of the student by above 70 percentage and in 1 attempt`
+
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/541bcba7f666193f2acf75054da9839327672a7b/Basic_programs/Example.cpp
+
+__________________________________________________________
+##### **_If Statement:= _**
++ If is a disicion making statement. It is used for checking particular condition holding or not
+
+Syntax is given below=
+
+if(condition)
+
+{
+     Statements
+     }
+
+if the condition is true or holds the statement inside the if block, it gets executed.
+
+Exampel 1 - `Write a program to check whether given number is positive or negative number.`
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/892d9c8733a7cc3dafd949bea21dfdf525ee9dd2/Basic_programs/Positive_Negative_if.cpp
+
+Example 2 - `Write a program whether given number is divisible by 3 or not.`
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/892d9c8733a7cc3dafd949bea21dfdf525ee9dd2/Basic_programs/Divisible_or_not.cpp
+
+Example 3 - `Write a program to check whether addition of two numbers which is accepeted from user is greater than 100 or not.`
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/892d9c8733a7cc3dafd949bea21dfdf525ee9dd2/Basic_programs/Greater_than_2_number.cpp
+
+Example 4 - `Write a program whether given character is a Vowel or not.`
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/892d9c8733a7cc3dafd949bea21dfdf525ee9dd2/Basic_programs/aeiou.cpp
+
 __________________________________________________________
 ##### _**If__Else statement:=**_
 
-if else is used for checking the condition, if it is true then if block get execute otherwise else block get execute.
++ if else is used for checking the condition, if it is true then if block get execute otherwise else block get execute.
        
+Example - `Write a program to check number is even or odd using if else`
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/892d9c8733a7cc3dafd949bea21dfdf525ee9dd2/Basic_programs/if_else.cpp
+
+example 2 - `Write a program to check greater number between 2 numbers`
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/892d9c8733a7cc3dafd949bea21dfdf525ee9dd2/Basic_programs/if_else1.cpp
+
 Amstrong Number- 3 digit number or 4 digit number | Then cube or individual number betweeen them | Then addition of cube of these 3 digit numbers | gives the answer of same 3 digit number.
 
-- [ ] n=4297
+- n=4297
 - n1=n/1000    = 4
 - r1=n%1000    = 927
 - n2=r1/100    = 9
@@ -103,7 +142,19 @@ Amstrong Number- 3 digit number or 4 digit number | Then cube or individual numb
 - n3=r2/10     = 2
 - n4= r2%10    =7
 
-[(https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)]
+Example 3 - `Write a program to check whether the Number is Amstrong number or not`
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/892d9c8733a7cc3dafd949bea21dfdf525ee9dd2/Basic_programs/amstrong_number.cpp
+
+________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
 
 
 
