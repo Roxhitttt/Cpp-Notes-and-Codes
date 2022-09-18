@@ -56,4 +56,4 @@ Amstrong Number- 3 digit number or 4 digit number | Then cube or individual numb
 </p>
 </details>
 
-
+afk
