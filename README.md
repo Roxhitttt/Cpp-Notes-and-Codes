@@ -2,6 +2,17 @@
 
 ### _**I am going to take notes of C++ here**_
 -------------------------------------------------------------------------
+##### First Basic Code of C++
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/abfca224b5ff2d1224a550b23fcfa2fb19fd2b6a/Basic_programs/first.cpp
+
+##### Second Basic Code of C++
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/abfca224b5ff2d1224a550b23fcfa2fb19fd2b6a/Basic_programs/second.cpp
+
+-------------------------------------------------------------------------
+##### How to take Input from user and print it in the cout block code=
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/abfca224b5ff2d1224a550b23fcfa2fb19fd2b6a/Basic_programs/demo_input.cpp
+
+__________________________________________________________________________
 #####  _**Arithmatic Operators:=**_
 -    plus          Addition Operator.
 -    minus          Substraction Operator.
@@ -9,9 +20,7 @@
 -    /          Divisin Operator.
 -    %          Modulus Operator.
 
-[(https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Arithmatic_operator.cpp)]
-
-
+`Here is the code on Arithmatic Operator = `
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/cbd91c1e714777912595202b6aaa34b916f864e1/Basic_programs/Arithmatic_operator.cpp
 
 -------------------------------------------------------------------------
@@ -26,8 +35,27 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/cbd91c1e714777912595202b6a
 | Less than or equal to | a<=b | if a<=b then it will return 1 otherwise return 0 |
 | Equal to  Equal to | a==b | if a==b then it will return 1 otherwise it will return 0 |
 | Not equal to | a!=b | if a is not equal to b then it will return 1 otherwise it will return 0 |
+
+`Here is the code on Arithmatic Operator = `
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/abfca224b5ff2d1224a550b23fcfa2fb19fd2b6a/Basic_programs/Relational_operator.cpp
      
--------------------------------------------------------------------------    
+-------------------------------------------------------------------------   
+##### **_Logical Operator:=_**
+
+|Symbol|Name|
+|---|---|
+|&&|And|
+|\||Or|
+|!|Not|
+
+`Truth Table For &&,||,! Logical Operator:= `
+|A|B|A&&B|A\||\B|\!(A)\|
+|---|---|---|---|---|
+|0|0|0|0|1|
+|0|1|0|1|1|
+|1|0|0|1|0|
+|1|1|1|1|0|
+__________________________________________________________
 
 ##### _**If__Else statement:=**_
 
