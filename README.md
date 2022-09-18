@@ -43,6 +43,17 @@ Amstrong Number- 3 digit number or 4 digit number | Then cube or individual numb
 [(https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)]
 
 
-![taoo](https://user-images.githubusercontent.com/62470301/190870650-c1e368a0-2da5-4e52-86c3-039a3bb1a364.jpg)
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+```ruby
+   puts "Hello World"
+```
+
+</p>
+</details>
 
 
