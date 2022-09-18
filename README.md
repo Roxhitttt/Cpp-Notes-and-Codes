@@ -49,7 +49,7 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/abfca224b5ff2d1224a550b23f
 |!|Not|
 
 `Truth Table For &&,||,! Logical Operator:= `
-|A|B|A&&B|A\||\B|\!(A)\|
+|A|B|A&&B|A Or Or B| ! A |
 |---|---|---|---|---|
 |0|0|0|0|1|
 |0|1|0|1|1|
