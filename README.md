@@ -55,8 +55,40 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/abfca224b5ff2d1224a550b23f
 |0|1|0|1|1|
 |1|0|0|1|0|
 |1|1|1|1|0|
-__________________________________________________________
 
+`Here is the code on Logical Operator = `
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/c14e1f3a6e9979d96939fd6e462929993016db7c/Basic_programs/Logical_Operator.cpp
+__________________________________________________________
+##### **_Bit-Wise Operator:= _**
+
+- &
+- |
+- ^
+- ~
+- />>
+- <<
+
+`Truth Table For &,|,^ Bit-Wise Operator:= `
+|A|B|A&B| A Or B | A^B |
+|---|---|---|---|---|
+|0|0|0|0|0|
+|0|1|0|1|1|
+|1|0|0|1|1|
+|1|1|1|1|0|
+
+if a=5  binary of 5 is 0101 
+
+if b=7  binary of 7 is 0111
+   
+                      ______
+                      
+                       0101   Gives 5
+                       
+                       0111   Gives 7
+                       
+                       0010   Gives 2
+
+__________________________________________________________
 ##### _**If__Else statement:=**_
 
 if else is used for checking the condition, if it is true then if block get execute otherwise else block get execute.
