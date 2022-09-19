@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    int a,b;
+    int a,b,r;
     char c;
     cout<<"a for addition\n s for substraction\n m for multiplication\n d for division\n Enter your choice\n";
     cin>>c;
@@ -10,22 +10,22 @@ int main()
     switch(c)
     {
         case 'a':
-        c=a+b;
+        r=a+b;
         cout<<"Addition is :"<<c;
         break;
 
         case 's':
-        c=a-b;
+        r=a-b;
         cout<<"Substraction is :"<<c;
         break;
 
         case 'm':
-        c=a*b;
+        r=a*b;
         cout<<"Multiplication is :"<<c;
         break;
 
         case 'd':
-        c=a/b;
+        r=a/b;
         cout<<"Division is :"<<c;
         break;
 
