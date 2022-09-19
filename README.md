@@ -151,17 +151,34 @@ If we are having multiple condition at a time like printing a month from 12 mont
 
 Syntax of Switch Case Statement-
 
+Switch(condition)
 
+{
 
+case 1: Statements
+
+break;
+
+case 2: Statements
+
+break;
+
+case 3: Statements
+
+break;
+
+case 4: Statements
+
+break;
+
+default: Statement
+
+}
 
 Example  - `Switch Case Demo =`
 https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/74462b3180012fab05a3221b6ee47285368913b0/Basic_programs/switch_case_demo.cpp#L11
 
-https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/switch_case_demo.cpp#L12
-
-
-
-
+________________________________________________________________________________________
 
 
 
