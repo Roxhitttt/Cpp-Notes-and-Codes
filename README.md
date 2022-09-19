@@ -122,7 +122,7 @@ Example 4 - `Write a program whether given character is a Vowel or not.`
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/892d9c8733a7cc3dafd949bea21dfdf525ee9dd2/Basic_programs/aeiou.cpp
 
 __________________________________________________________
-##### _**If__Else statement:=**_
+#####  _**If__Else statement:=**_
 
 + if else is used for checking the condition, if it is true then if block get execute otherwise else block get execute.
        
@@ -146,7 +146,7 @@ Example 3 - `Write a program to check whether the Number is Amstrong number or n
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/892d9c8733a7cc3dafd949bea21dfdf525ee9dd2/Basic_programs/amstrong_number.cpp
 
 ________________________________________________________________________________________
-
+##### 
 
 
 
