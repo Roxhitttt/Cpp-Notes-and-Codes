@@ -11,22 +11,22 @@ int main()
     {
         case 'a':
         c=a+b;
-        cout<<"Addition is :";
+        cout<<"Addition is :"<<c;
         break;
 
         case 's':
         c=a-b;
-        cout<<"Substraction is :";
+        cout<<"Substraction is :"<<c;
         break;
 
         case 'm':
         c=a*b;
-        cout<<"Multiplication is :";
+        cout<<"Multiplication is :"<<c;
         break;
 
         case 'd':
         c=a/b;
-        cout<<"Division is :";
+        cout<<"Division is :"<<c;
         break;
 
         default:
