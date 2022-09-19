@@ -146,10 +146,18 @@ Example 3 - `Write a program to check whether the Number is Amstrong number or n
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/892d9c8733a7cc3dafd949bea21dfdf525ee9dd2/Basic_programs/amstrong_number.cpp
 
 ________________________________________________________________________________________
-##### 
+##### **_Switch Case Statement:= _**
+If we are having multiple condition at a time like printing a month from 12 months then Switch case statement is used.
+
+Syntax of Switch Case Statement-
 
 
 
+
+Example  - `Switch Case Demo =`
+https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/74462b3180012fab05a3221b6ee47285368913b0/Basic_programs/switch_case_demo.cpp#L11
+
+https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/switch_case_demo.cpp#L12
 
 
 
