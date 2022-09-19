@@ -178,6 +178,8 @@ default: Statement
 Example  - `Switch Case Demo =`
 https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/74462b3180012fab05a3221b6ee47285368913b0/Basic_programs/switch_case_demo.cpp#L11
 
+Example 1 - 
+
 ________________________________________________________________________________________
 
 
