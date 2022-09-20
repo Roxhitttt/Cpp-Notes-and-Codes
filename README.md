@@ -146,7 +146,7 @@ Example 3 - `Write a program to check whether the Number is Amstrong number or n
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/892d9c8733a7cc3dafd949bea21dfdf525ee9dd2/Basic_programs/amstrong_number.cpp
 
 ________________________________________________________________________________________
-##### **_Switch Case Statement:= _**
+##### **Switch Case Statement:= **
 If we are having multiple condition at a time like printing a month from 12 months then Switch case statement is used.
 
 Syntax of Switch Case Statement-
@@ -197,5 +197,3 @@ ________________________________________________________________________________
 
 </p>
 </details>
-
-afk
