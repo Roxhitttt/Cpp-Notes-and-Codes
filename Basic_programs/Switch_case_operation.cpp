@@ -2,7 +2,9 @@
 using namespace std;
 int main()
 {
-    int a=10,b=20,r;
+    int a,b,r;
+    cout<<"Enter the number a and b\n";
+    cin>>a>>b;
     char c;
     cout<<"a for addition\n s for substraction\n m for multiplication\n d for division\n Enter your choice\n";
     cin>>c;
