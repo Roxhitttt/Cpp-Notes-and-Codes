@@ -2,7 +2,8 @@
 using namespace std;
 int main()
 {
-    int i=1,fact=1,number;
+
+int i=1,fact=1,number;
     cout<<"Enter a number\n";
     cin>>number;
     while(i<=number)
@@ -11,6 +12,18 @@ int main()
     i++;
     
 }
-cout<<fact;
+cout<<fact<<endl;
+
+
+int a,b=1;
+cout<<"Enter number"<<endl;
+cin>>a;
+
+while(a>=1)
+{
+    b=b*a;
+    a--;
+}
+cout<<b;
     return 0;
 }
