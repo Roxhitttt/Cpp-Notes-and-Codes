@@ -182,6 +182,37 @@ Example 1 - `Addition,Substraction,multiplication,division operations using swit
 https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/1f8212df59295fea1d7c3410eb2105eb6b65e526/Basic_programs/Switch_case_operation.cpp#L1
 
 ________________________________________________________________________________________
+##### _**While:= **_ 
+
+While is used for Looping Purpose
+
+Syntax is given below:=
+
+Initialization
+
+While(termination)
+{
+     increment/decrement
+}
+
+Example  - `While Statement Demo =`
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/5549cc26aecbd02ade34241fe0c7408124f75d52/Basic_programs/While_demo.cpp
+
+
+
+________________________________________________________________________________________
+
+
+________________________________________________________________________________________
+
+
+________________________________________________________________________________________
+
+
+________________________________________________________________________________________
+
+
+________________________________________________________________________________________
 
 
 
