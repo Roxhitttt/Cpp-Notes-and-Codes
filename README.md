@@ -198,6 +198,12 @@ While(termination)
 Example  - `While Statement Demo =`
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/5549cc26aecbd02ade34241fe0c7408124f75d52/Basic_programs/While_demo.cpp
 
+Example 1 - `Printing number from 1 to 10 in reverse mode using while loop =`
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/b0a824c92759677bc64c3d2e3a20eeaf7f448f93/Basic_programs/1_to_10_While_loop.cpp
+
+Example 2 - `Printing Even number from 20 to 30 and printing Sum of them using while loop =`
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/b0a824c92759677bc64c3d2e3a20eeaf7f448f93/Basic_programs/20-to-30_even_number_while.cpp
+
 
 
 ________________________________________________________________________________________
