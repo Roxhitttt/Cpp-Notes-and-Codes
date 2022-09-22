@@ -205,7 +205,11 @@ Example 2 - `Printing Even number from 20 to 30 and printing Sum of them using w
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/b0a824c92759677bc64c3d2e3a20eeaf7f448f93/Basic_programs/20-to-30_even_number_while.cpp
 
 Example 3 - `printing Factorial of a number using while loop =`
-https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/e64604ba90190889fa9d447e9efd3446aa4e8c2c/Basic_programs/Factorial-of-using-while.cpp
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/9c3673f54158c9e27187a250d82350f9f8137fba/Basic_programs/Factorial-of-using-while.cpp
+
+`Prime number = THe number which get divided by itself or 1 is called as Prime Number`
+
+Example 4 - `Find prime number using while loop =`
 
 
 
