@@ -210,12 +210,27 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/9c3673f54158c9e27187a250d8
 `Prime number = THe number which get divided by itself or 1 is called as Prime Number`
 
 Example 4 - `Find prime number using while loop =`
-
-
-
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/a286f87d8869f06c26583d56fb57110b7cdb1ef4/Basic_programs/prime_number_while.cpp
 
 
 ________________________________________________________________________________________
+##### _**Nested While:= **_ 
+
+While in while loop=
+
+while()
+{
+     while()
+          {
+          
+          }
+}
+
+Example  - `Nested While to print number patterns in a column and row in vertical =`
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/a286f87d8869f06c26583d56fb57110b7cdb1ef4/Basic_programs/while_while.cpp
+
+Example 1 - `Nested While to print number patterns in a column and row in horizontal =`
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/a286f87d8869f06c26583d56fb57110b7cdb1ef4/Basic_programs/while_while1.cpp
 
 
 ________________________________________________________________________________________
