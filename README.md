@@ -234,7 +234,22 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/a286f87d8869f06c26583d56fb
 
 
 ________________________________________________________________________________________
+##### _**Do While := **_
 
+Do while is used for looping porpose, the major difference between while and do while is that do while executes statement once and then check the condition.
+Do while is a exit control loop
+
+Syntax is given bellow 
+
+Do
+
+{
+
+Statement:
+
+increment/decrement
+
+}while(condition);
 
 ________________________________________________________________________________________
 
