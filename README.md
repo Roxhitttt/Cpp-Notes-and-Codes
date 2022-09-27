@@ -12,6 +12,9 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/abfca224b5ff2d1224a550b23f
 ##### How to take Input from user and print it in the cout block code=
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/abfca224b5ff2d1224a550b23fcfa2fb19fd2b6a/Basic_programs/demo_input.cpp
 
+##### Swapping Program
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/49ece10dc3f53d05321f16602841470ec54cc766/Basic_programs/Swapping.cpp
+
 __________________________________________________________________________
 #####  _**Arithmatic Operators:=**_
 -    plus          Addition Operator.
@@ -273,6 +276,10 @@ Statements
 }
 
 Example  - `Print 1 to 10 using For loop = `
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/49ece10dc3f53d05321f16602841470ec54cc766/Basic_programs/For_loop.cpp
+
+Example  - `Print Table using For loop = `
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/49ece10dc3f53d05321f16602841470ec54cc766/Basic_programs/for_loop_table.cpp
 
 Fibonacci Series
 0 and 1 = the next number is the addition of previous 2 numbers means 1 = 2 = 3 = 5 = 8 = 13
