@@ -232,6 +232,10 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/a286f87d8869f06c26583d56fb
 Example 1 - `Nested While to print number patterns in a column and row in horizontal =`
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/a286f87d8869f06c26583d56fb57110b7cdb1ef4/Basic_programs/while_while1.cpp
 
+Example 2 - `Printing * Pattern Using Nested while loop =`
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/c36ae9cb19803a35034841b33aea2f71636c69d2/Basic_programs/Star_pattern_while.cpp
+
+Example 3 - `Print a pattern using Nested while loop =`
 
 ________________________________________________________________________________________
 ##### _**Do While := **_
@@ -251,13 +255,57 @@ increment/decrement
 
 }while(condition);
 
+Example  - `Print 1 to 10 using Do while loop = `
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/c36ae9cb19803a35034841b33aea2f71636c69d2/Basic_programs/1to10_using_do_while.cpp
+
+Example 1 - `Menu Driven Program using Do while loop = `
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/c36ae9cb19803a35034841b33aea2f71636c69d2/Basic_programs/menu_driven_do_while.cpp
+
+________________________________________________________________________________________
+##### _**For Loop := **_
+
+For(initialization;termination;increment/decrement)
+
+{
+
+Statements
+
+}
+
+Example  - `Print 1 to 10 using For loop = `
+
+Fibonacci Series
+0 and 1 = the next number is the addition of previous 2 numbers means 1 = 2 = 3 = 5 = 8 = 13
+
+
 ________________________________________________________________________________________
 
 
 ________________________________________________________________________________________
 
 
-________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
