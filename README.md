@@ -290,6 +290,11 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/ee331d40439d4bc6a6e75fd66e
 Example 3 - `Write a program to display sum of odd number between 20 to 30 using for loop = `
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/ee331d40439d4bc6a6e75fd66e062369e7301e59/Basic_programs/sum_20to30_for_loop.cpp
 
+Example 4 - `Star Pattern using first 4 spaces using For loop= `
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/5b3b287c7d80a224de8d7d946291240efbe6bb11/Basic_programs/Star_pattern1_For_loop.cpp
+
+
+
 
 ________________________________________________________________________________________
 
