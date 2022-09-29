@@ -293,10 +293,33 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/ee331d40439d4bc6a6e75fd66e
 Example 4 - `Star Pattern using first 4 spaces using For loop= `
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/5b3b287c7d80a224de8d7d946291240efbe6bb11/Basic_programs/Star_pattern1_For_loop.cpp
 
-
-
-
 ________________________________________________________________________________________
+##### _**Functions := **_
+
+Function is a block of code which is used to accomplish a particular task.
+
+Syntax:= 
+
+Return_tupe Function_name(arguements list)
+
+{
+
+Statements
+
+}
+
+`_There are 4 Types of Functions_`
+
+1. Function without argument without return value: =
+
+Example - `Function Example: =`
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/2735dbcc3b1a2a53fd6e7a4ff4a8d5023168abe9/Basic_programs/Functions_No_arg_no_return_value.cpp
+
+Example 1 - `Write a program to find factorial of a number asked by user using Functions:= `
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/82ceac9d701b1762d8846aa3ee7a8569db465453/Basic_programs/function_1.cpp
+
+Example 2 - `Swapping of Numbers using functions`
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/82ceac9d701b1762d8846aa3ee7a8569db465453/Basic_programs/Swap_Using_functions.cpp
 
 
 ________________________________________________________________________________________
