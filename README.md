@@ -318,10 +318,20 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/2735dbcc3b1a2a53fd6e7a4ff4
 Example 1 - `Write a program to find factorial of a number asked by user using Functions:= `
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/82ceac9d701b1762d8846aa3ee7a8569db465453/Basic_programs/function_1.cpp
 
+2. Function with argument without return value:=
+
 Example 2 - `Swapping of Numbers using functions`
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/82ceac9d701b1762d8846aa3ee7a8569db465453/Basic_programs/Swap_Using_functions.cpp
 
+Example 3 - `Write a function  which accept the parameter one integer one float one character and display it,accept all values from user`
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/e86cc869448f360cc6cd2efd28095b8d3b6d6e34/Basic_programs/Basic1_Programs/Functions1_.cpp
 
+3. Funtion with argument with return value:=
+
+Example 4 - `Addition of float numbers using Functions`
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/e86cc869448f360cc6cd2efd28095b8d3b6d6e34/Basic_programs/Basic1_Programs/Funtion3.cpp
+
+Example 5 - `Write a c++ Funtion to display the discount of 10 % ,accept the ammount from user `
 ________________________________________________________________________________________
 
 
