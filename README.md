@@ -331,7 +331,8 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/e86cc869448f360cc6cd2efd28
 Example 4 - `Addition of float numbers using Functions`
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/e86cc869448f360cc6cd2efd28095b8d3b6d6e34/Basic_programs/Basic1_Programs/Funtion3.cpp
 
-Example 5 - `Write a c++ Funtion to display the discount of 10 % ,accept the ammount from user `
+Example 5 - `Write a c++ Funtion to display the discount of 10 % ,accept the ammount from user`
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/e8b77eb465ff15ce708084a3952f1ab0cc969a38/Basic_programs/Basic1_Programs/Function4.cpp
 ________________________________________________________________________________________
 
 
