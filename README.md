@@ -344,7 +344,11 @@ Datatype arrayname(size);
 
 Eg: int a[10];
 
-Example - `Simple Program on arrays: =`
+Example - `Taking Input and printing output using array in C++ : =`
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/f3ac0ed7b25849b840970ac5a0e9eab748ae8a83/Basic_programs/Basic1_Programs/Array1.cpp
+
+Example - ` Same but addition of 1st and last element: =`
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/f3ac0ed7b25849b840970ac5a0e9eab748ae8a83/Basic_programs/Basic1_Programs/Array2.cpp
 
 
 __________________________________________________________________________________________
