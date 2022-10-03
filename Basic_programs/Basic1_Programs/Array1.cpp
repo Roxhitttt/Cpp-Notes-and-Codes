@@ -10,7 +10,7 @@ int main()
         cin>>a[i];
     }
 
-    cout<<"Array elements are: ";
+    cout<<"Array elements are: "; 
 
     for(i=0;i<10;i++)
     {
