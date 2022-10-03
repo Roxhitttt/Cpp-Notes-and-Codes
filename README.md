@@ -334,6 +334,52 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/e86cc869448f360cc6cd2efd28
 Example 5 - `Write a c++ Funtion to display the discount of 10 % ,accept the ammount from user`
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/e8b77eb465ff15ce708084a3952f1ab0cc969a38/Basic_programs/Basic1_Programs/Function4.cpp
 ________________________________________________________________________________________
+##### _**Arrays := **_
+
+Array is collection of data items having some data type.
+
+Syntax:
+
+Datatype arrayname(size);
+
+Eg: int a[10];
+
+Example - `Simple Program on arrays: =`
+
+
+__________________________________________________________________________________________
+##### _**Class := **_
+
+Class is a user defined user defined data type which binds a different variables and functions inside a single unit that is called as a class
+
+Syntax of class:
+
+class class_name
+
+{
+
+     varaible 
+     
+     Function
+     
+};
+
+Object - Object is a run time entity of class until we defined object of class memory is not allocated to the class varialbe and functions
+
+Syntax of Object :
+
+class_name object_name;
+
+Using object we can access varaiables and functions outside the class.
+
+Example - `Simple example taking input from class and output in main fucntion using object : =`
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/8d2ab6175ead5065309e2aab3c57c17bf8d3863d/Basic_programs/Basic1_Programs/class1.cpp
+
+Example - `Same program but minor changes :Simple example taking input from class and output in main fucntion using object : =`
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/8d2ab6175ead5065309e2aab3c57c17bf8d3863d/Basic_programs/Basic1_Programs/class2.cpp
+
+Example - `create a class which accept the 2 variables no1 and no2 using get function and perform the addition using add,sub,div,mul functions. : =`
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/8d2ab6175ead5065309e2aab3c57c17bf8d3863d/Basic_programs/Basic1_Programs/class3.cpp
 
 
 
@@ -353,6 +399,10 @@ ________________________________________________________________________________
 
 
 
+
+
+Function cha 1 type baki ahe 
+arrays la mi abscent hoto 
 
 
 
