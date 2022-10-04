@@ -352,6 +352,10 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/f3ac0ed7b25849b840970ac5a0
 
 
 __________________________________________________________________________________________
+
+<details><summary>Class :=</summary>
+<p>
+
 ##### _**Class := **_
 
 Class is a user defined user defined data type which binds a different variables and functions inside a single unit that is called as a class
@@ -386,16 +390,22 @@ Example - `create a class which accept the 2 variables no1 and no2 using get fun
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/8d2ab6175ead5065309e2aab3c57c17bf8d3863d/Basic_programs/Basic1_Programs/class3.cpp
 
 
+</p>
+</details>
+
+__________________________________________________________________________________________
 
 
 
 
 
 
+<details><summary>Class :=</summary>
+<p>
 
-
-
-
+     
+</p>
+</details>
 
 
 
