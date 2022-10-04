@@ -16,6 +16,9 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/abfca224b5ff2d1224a550b23f
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/49ece10dc3f53d05321f16602841470ec54cc766/Basic_programs/Swapping.cpp
 
 __________________________________________________________________________
+<details><summary> Arithmatic Operators:= </summary>
+<p>
+
 #####  _**Arithmatic Operators:=**_
 -    plus          Addition Operator.
 -    minus          Substraction Operator.
@@ -26,8 +29,13 @@ __________________________________________________________________________
 `Here is the code on Arithmatic Operator = `
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/cbd91c1e714777912595202b6aaa34b916f864e1/Basic_programs/Arithmatic_operator.cpp
 
+     
+     </p>
+</details>
 -------------------------------------------------------------------------
-
+<details><summary> Relational Operators:= </summary>
+<p>
+     
 ##### _**Relational Operators:=**_
 
 |  Name | Example | Description |
@@ -42,7 +50,13 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/cbd91c1e714777912595202b6a
 `Here is the code on Arithmatic Operator = `
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/abfca224b5ff2d1224a550b23fcfa2fb19fd2b6a/Basic_programs/Relational_operator.cpp
      
+     
+     </p>
+</details>
 -------------------------------------------------------------------------   
+<details><summary> Logical Operator:= </summary>
+<p>
+     
 ##### **_Logical Operator:=_**
 
 |Symbol|Name|
@@ -61,7 +75,14 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/abfca224b5ff2d1224a550b23f
 
 `Here is the code on Logical Operator = `
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/c14e1f3a6e9979d96939fd6e462929993016db7c/Basic_programs/Logical_Operator.cpp
+     
+     
+     </p>
+</details>
 __________________________________________________________
+<details><summary> Bit-Wise Operator:= </summary>
+<p>
+     
 ##### **_Bit-Wise Operator:= _**
 
 - &
@@ -93,13 +114,22 @@ if b=7  binary of 7 is 0111
 
 `Here is the code on Logical Operator = `
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/541bcba7f666193f2acf75054da9839327672a7b/Basic_programs/Bit_wise_Operator.cpp
+     
+     
+     </p>
+</details>
 __________________________________________________________
+
 Example 1- `Write a c++ program for the Selection of the student by above 70 percentage and in 1 attempt`
 
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/541bcba7f666193f2acf75054da9839327672a7b/Basic_programs/Example.cpp
 
 __________________________________________________________
-##### **_If Statement:= _**
+<details><summary> If Statement:= </summary>
+<p>
+     
+     
+     ##### **_If Statement:= _**
 + If is a disicion making statement. It is used for checking particular condition holding or not
 
 Syntax is given below=
@@ -124,7 +154,15 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/892d9c8733a7cc3dafd949bea2
 Example 4 - `Write a program whether given character is a Vowel or not.`
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/892d9c8733a7cc3dafd949bea21dfdf525ee9dd2/Basic_programs/aeiou.cpp
 
+     
+     
+     </p>
+</details>
 __________________________________________________________
+<details><summary> If__Else statement:= </summary>
+<p>
+
+
 #####  _**If__Else statement:=**_
 
 + if else is used for checking the condition, if it is true then if block get execute otherwise else block get execute.
@@ -148,8 +186,16 @@ Amstrong Number- 3 digit number or 4 digit number | Then cube or individual numb
 Example 3 - `Write a program to check whether the Number is Amstrong number or not`
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/892d9c8733a7cc3dafd949bea21dfdf525ee9dd2/Basic_programs/amstrong_number.cpp
 
+
+
+</p>
+</details>
 ________________________________________________________________________________________
-##### **Switch Case Statement:= **
+<details><summary> Switch Case Statement:= </summary>
+<p>
+     
+     
+     ##### **Switch Case Statement:= **
 If we are having multiple condition at a time like printing a month from 12 months then Switch case statement is used.
 
 Syntax of Switch Case Statement-
@@ -183,9 +229,18 @@ https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/74462b3180012fab05a3221b6e
 
 Example 1 - `Addition,Substraction,multiplication,division operations using switch case statement:= `
 https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/1f8212df59295fea1d7c3410eb2105eb6b65e526/Basic_programs/Switch_case_operation.cpp#L1
+     
+     
+     
+     </p>
+</details>
 
 ________________________________________________________________________________________
-##### _**While:= **_ 
+<details><summary> While:= </summary>
+<p>
+     
+     
+     ##### _**While:= **_ 
 
 While is used for Looping Purpose
 
@@ -216,8 +271,15 @@ Example 4 - `Find prime number using while loop =`
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/a286f87d8869f06c26583d56fb57110b7cdb1ef4/Basic_programs/prime_number_while.cpp
 
 
+     
+     </p>
+</details>
 ________________________________________________________________________________________
-##### _**Nested While:= **_ 
+<details><summary> Nested While:= </summary>
+<p>
+     
+     
+     ##### _**Nested While:= **_ 
 
 While in while loop=
 
@@ -240,8 +302,16 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/c36ae9cb19803a35034841b33a
 
 Example 3 - `Print a pattern using Nested while loop =`
 
+     
+     
+     </p>
+</details>
 ________________________________________________________________________________________
-##### _**Do While := **_
+<details><summary> Do While := </summary>
+<p>
+     
+     
+     ##### _**Do While := **_
 
 Do while is used for looping porpose, the major difference between while and do while is that do while executes statement once and then check the condition.
 Do while is a exit control loop
@@ -264,8 +334,15 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/c36ae9cb19803a35034841b33a
 Example 1 - `Menu Driven Program using Do while loop = `
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/c36ae9cb19803a35034841b33aea2f71636c69d2/Basic_programs/menu_driven_do_while.cpp
 
+     
+     </p>
+</details>
 ________________________________________________________________________________________
-##### _**For Loop := **_
+<details><summary> For Loop :=  </summary>
+<p>
+     
+     
+     ##### _**For Loop := **_
 
 For(initialization;termination;increment/decrement)
 
@@ -292,9 +369,17 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/ee331d40439d4bc6a6e75fd66e
 
 Example 4 - `Star Pattern using first 4 spaces using For loop= `
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/5b3b287c7d80a224de8d7d946291240efbe6bb11/Basic_programs/Star_pattern1_For_loop.cpp
+     
+     
+     </p>
+</details>
 
 ________________________________________________________________________________________
-##### _**Functions := **_
+<details><summary> Functions :=  </summary>
+<p>
+     
+     
+     ##### _**Functions := **_
 
 Function is a block of code which is used to accomplish a particular task.
 
@@ -333,8 +418,16 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/e86cc869448f360cc6cd2efd28
 
 Example 5 - `Write a c++ Funtion to display the discount of 10 % ,accept the ammount from user`
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/e8b77eb465ff15ce708084a3952f1ab0cc969a38/Basic_programs/Basic1_Programs/Function4.cpp
+     
+     
+     </p>
+</details>
 ________________________________________________________________________________________
-##### _**Arrays := **_
+<details><summary> Arrays :=  </summary>
+<p>
+     
+     
+     ##### _**Arrays := **_
 
 Array is collection of data items having some data type.
 
@@ -353,7 +446,7 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/f3ac0ed7b25849b840970ac5a0
 
 __________________________________________________________________________________________
 
-<details><summary>Class :=</summary>
+<details><summary> Class := </summary>
 <p>
 
 ##### _**Class := **_
@@ -394,26 +487,62 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/8d2ab6175ead5065309e2aab3c
 </details>
 
 __________________________________________________________________________________________
-
-
-
-
-
-
-<details><summary>Class :=</summary>
+<details><summary>  </summary>
 <p>
 
      
 </p>
 </details>
 
+__________________________________________________________________________________________
+<details><summary>  </summary>
+<p>
 
+     
+</p>
+</details>
 
+__________________________________________________________________________________________
+<details><summary>  </summary>
+<p>
 
+     
+</p>
+</details>
 
+__________________________________________________________________________________________
+<details><summary>  </summary>
+<p>
 
+     
+</p>
+</details>
 
+__________________________________________________________________________________________
+<details><summary>  </summary>
+<p>
 
+     
+</p>
+</details>
+
+__________________________________________________________________________________________
+<details><summary>  </summary>
+<p>
+
+     
+</p>
+</details>
+
+__________________________________________________________________________________________
+<details><summary>  </summary>
+<p>
+
+     
+</p>
+</details>
+
+__________________________________________________________________________________________
 
 Function cha 1 type baki ahe 
 arrays la mi abscent hoto 
