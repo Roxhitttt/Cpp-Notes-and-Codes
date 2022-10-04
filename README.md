@@ -1,14 +1,14 @@
 #  Cpp Notes and Codes
 
 ### _**I am going to take notes of C++ here**_
--------------------------------------------------------------------------
+__________________________________________________________
 ##### First Basic Code of C++
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/abfca224b5ff2d1224a550b23fcfa2fb19fd2b6a/Basic_programs/first.cpp
 
 ##### Second Basic Code of C++
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/abfca224b5ff2d1224a550b23fcfa2fb19fd2b6a/Basic_programs/second.cpp
 
--------------------------------------------------------------------------
+__________________________________________________________
 ##### How to take Input from user and print it in the cout block code=
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/abfca224b5ff2d1224a550b23fcfa2fb19fd2b6a/Basic_programs/demo_input.cpp
 
@@ -16,6 +16,8 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/abfca224b5ff2d1224a550b23f
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/49ece10dc3f53d05321f16602841470ec54cc766/Basic_programs/Swapping.cpp
 
 __________________________________________________________________________
+#####  _**Arithmatic Operators:=**_
+
 <details><summary> Arithmatic Operators:= </summary>
 <p>
 
@@ -32,7 +34,10 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/cbd91c1e714777912595202b6a
      
 </p>
 </details>
--------------------------------------------------------------------------
+__________________________________________________________
+
+##### _**Relational Operators:=**_
+
 <details><summary> Relational Operators:= </summary>
 <p>
      
@@ -53,7 +58,10 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/abfca224b5ff2d1224a550b23f
      
 </p>
 </details>
--------------------------------------------------------------------------   
+__________________________________________________________   
+
+##### **_Logical Operator:=_**
+
 <details><summary> Logical Operator:= </summary>
 <p>
      
@@ -80,6 +88,10 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/c14e1f3a6e9979d96939fd6e46
 </p>
 </details>
 __________________________________________________________
+
+##### **_Bit-Wise Operator:= _**
+
+
 <details><summary> Bit-Wise Operator:= </summary>
 <p>
      
@@ -125,6 +137,10 @@ Example 1- `Write a c++ program for the Selection of the student by above 70 per
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/541bcba7f666193f2acf75054da9839327672a7b/Basic_programs/Example.cpp
 
 __________________________________________________________
+
+ ##### **_If Statement:= _**
+ 
+ 
 <details><summary> If Statement:= </summary>
 <p>
      
@@ -159,6 +175,10 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/892d9c8733a7cc3dafd949bea2
 </p>
 </details>
 __________________________________________________________
+
+#####  _**If__Else statement:=**_
+
+
 <details><summary> If__Else statement:= </summary>
 <p>
 
@@ -191,6 +211,10 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/892d9c8733a7cc3dafd949bea2
 </p>
 </details>
 ________________________________________________________________________________________
+
+##### **Switch Case Statement:= **
+
+
 <details><summary> Switch Case Statement:= </summary>
 <p>
      
@@ -236,6 +260,10 @@ https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/1f8212df59295fea1d7c3410eb
 </details>
 
 ________________________________________________________________________________________
+
+ ##### _**While:= **_ 
+ 
+ 
 <details><summary> While:= </summary>
 <p>
      
@@ -275,6 +303,10 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/a286f87d8869f06c26583d56fb
 </p>
 </details>
 ________________________________________________________________________________________
+
+##### _**Nested While:= **_ 
+
+
 <details><summary> Nested While:= </summary>
 <p>
      
@@ -307,6 +339,10 @@ Example 3 - `Print a pattern using Nested while loop =`
 </p>
 </details>
 ________________________________________________________________________________________
+
+##### _**Do While := **_
+
+
 <details><summary> Do While := </summary>
 <p>
      
@@ -338,6 +374,10 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/c36ae9cb19803a35034841b33a
 </p>
 </details>
 ________________________________________________________________________________________
+
+##### _**For Loop := **_
+
+
 <details><summary> For Loop :=  </summary>
 <p>
      
@@ -375,6 +415,10 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/5b3b287c7d80a224de8d7d9462
 </details>
 
 ________________________________________________________________________________________
+
+##### _**Functions := **_
+
+
 <details><summary> Functions :=  </summary>
 <p>
      
@@ -423,6 +467,10 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/e8b77eb465ff15ce708084a395
 </p>
 </details>
 ________________________________________________________________________________________
+
+##### _**Arrays := **_
+
+
 <details><summary> Arrays :=  </summary>
 <p>
      
@@ -446,6 +494,8 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/f3ac0ed7b25849b840970ac5a0
 </p>
 </details>
 __________________________________________________________________________________________
+
+##### _**Class := **_
 
 <details><summary> Class := </summary>
 <p>
