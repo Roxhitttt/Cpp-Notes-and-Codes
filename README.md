@@ -595,25 +595,9 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________
 
+
+
+
+
 Function cha 1 type baki ahe 
 arrays la mi abscent hoto 
-
-
-
-
-
-
-
-
-
-<details><summary>CLICK ME</summary>
-<p>
-
-#### We can hide anything, even code!
-
-```ruby
-   puts "Hello World"
-```
-
-</p>
-</details>
