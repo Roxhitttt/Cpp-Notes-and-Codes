@@ -30,7 +30,7 @@ __________________________________________________________________________
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/cbd91c1e714777912595202b6aaa34b916f864e1/Basic_programs/Arithmatic_operator.cpp
 
      
-     </p>
+</p>
 </details>
 -------------------------------------------------------------------------
 <details><summary> Relational Operators:= </summary>
@@ -51,7 +51,7 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/cbd91c1e714777912595202b6a
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/abfca224b5ff2d1224a550b23fcfa2fb19fd2b6a/Basic_programs/Relational_operator.cpp
      
      
-     </p>
+</p>
 </details>
 -------------------------------------------------------------------------   
 <details><summary> Logical Operator:= </summary>
@@ -77,7 +77,7 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/abfca224b5ff2d1224a550b23f
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/c14e1f3a6e9979d96939fd6e462929993016db7c/Basic_programs/Logical_Operator.cpp
      
      
-     </p>
+</p>
 </details>
 __________________________________________________________
 <details><summary> Bit-Wise Operator:= </summary>
@@ -116,7 +116,7 @@ if b=7  binary of 7 is 0111
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/541bcba7f666193f2acf75054da9839327672a7b/Basic_programs/Bit_wise_Operator.cpp
      
      
-     </p>
+</p>
 </details>
 __________________________________________________________
 
@@ -156,7 +156,7 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/892d9c8733a7cc3dafd949bea2
 
      
      
-     </p>
+</p>
 </details>
 __________________________________________________________
 <details><summary> If__Else statement:= </summary>
@@ -232,7 +232,7 @@ https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/1f8212df59295fea1d7c3410eb
      
      
      
-     </p>
+</p>
 </details>
 
 ________________________________________________________________________________________
@@ -272,7 +272,7 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/a286f87d8869f06c26583d56fb
 
 
      
-     </p>
+</p>
 </details>
 ________________________________________________________________________________________
 <details><summary> Nested While:= </summary>
@@ -304,7 +304,7 @@ Example 3 - `Print a pattern using Nested while loop =`
 
      
      
-     </p>
+</p>
 </details>
 ________________________________________________________________________________________
 <details><summary> Do While := </summary>
@@ -335,7 +335,7 @@ Example 1 - `Menu Driven Program using Do while loop = `
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/c36ae9cb19803a35034841b33aea2f71636c69d2/Basic_programs/menu_driven_do_while.cpp
 
      
-     </p>
+</p>
 </details>
 ________________________________________________________________________________________
 <details><summary> For Loop :=  </summary>
@@ -371,7 +371,7 @@ Example 4 - `Star Pattern using first 4 spaces using For loop= `
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/5b3b287c7d80a224de8d7d946291240efbe6bb11/Basic_programs/Star_pattern1_For_loop.cpp
      
      
-     </p>
+</p>
 </details>
 
 ________________________________________________________________________________________
@@ -420,7 +420,7 @@ Example 5 - `Write a c++ Funtion to display the discount of 10 % ,accept the amm
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/e8b77eb465ff15ce708084a3952f1ab0cc969a38/Basic_programs/Basic1_Programs/Function4.cpp
      
      
-     </p>
+</p>
 </details>
 ________________________________________________________________________________________
 <details><summary> Arrays :=  </summary>
@@ -443,7 +443,8 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/f3ac0ed7b25849b840970ac5a0
 Example - ` Same but addition of 1st and last element: =`
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/f3ac0ed7b25849b840970ac5a0e9eab748ae8a83/Basic_programs/Basic1_Programs/Array2.cpp
 
-
+</p>
+</details>
 __________________________________________________________________________________________
 
 <details><summary> Class := </summary>
