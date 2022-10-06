@@ -538,16 +538,51 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/8d2ab6175ead5065309e2aab3c
 </details>
 
 __________________________________________________________________________________________
-<details><summary>  </summary>
+
+##### _**Array of Object := **_
+
+
+<details><summary> Array of Object := </summary>
 <p>
+
+
+##### _**Array of Object := **_
+
+example `Pring information of three students using array in the object ( array of Objects ) : =`
+
 
      
 </p>
 </details>
 
 __________________________________________________________________________________________
-<details><summary>  </summary>
+##### _**Contructor := **_
+
+<details><summary> Contructor </summary>
 <p>
+
+
+##### _**Contructor := **_
+
+Contructor is a special member function having same name as class name.
+Contructor get automatically called when object is created. 
+There is no return type to the contructor function.
+
+When contructor is called memory get allocate to variables and functions of class.
+
+There are three type of contructor:
+
+1. Default contructor 
+
+example - `Pring information of three students using array in the object ( array of Objects ) : =`
+
+Example 1 - `Write a program to create the class product which accept the rate of 4 different product and qunatity of product, define a default contructor which defines the rate for 4 different product and also define the quantity function which accept the quantities for each product. Display the bill on the basis of rate and quantity using bill function.
+ : =`
+
+
+2. Parameterised Contructor 
+3. Copy Contructor
+
 
      
 </p>
