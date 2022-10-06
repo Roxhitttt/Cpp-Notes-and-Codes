@@ -21,7 +21,6 @@ __________________________________________________________________________
 <details><summary> Arithmatic Operators:= </summary>
 <p>
 
-#####  _**Arithmatic Operators:=**_
 -    plus          Addition Operator.
 -    minus          Substraction Operator.
 -    multiply          Multiplication Operator.
@@ -40,8 +39,6 @@ __________________________________________________________
 
 <details><summary> Relational Operators:= </summary>
 <p>
-     
-##### _**Relational Operators:=**_
 
 |  Name | Example | Description |
 | --- | --- | --- |
@@ -64,8 +61,6 @@ __________________________________________________________
 
 <details><summary> Logical Operator:= </summary>
 <p>
-     
-##### **_Logical Operator:=_**
 
 |Symbol|Name|
 |---|---|
@@ -94,8 +89,7 @@ __________________________________________________________
 
 <details><summary> Bit-Wise Operator:= </summary>
 <p>
-     
-##### **_Bit-Wise Operator:= _**
+
 
 - &
 - |
@@ -144,8 +138,6 @@ __________________________________________________________
 <details><summary> If Statement:= </summary>
 <p>
      
-     
-     ##### **_If Statement:= _**
 + If is a disicion making statement. It is used for checking particular condition holding or not
 
 Syntax is given below=
@@ -183,8 +175,6 @@ __________________________________________________________
 <p>
 
 
-#####  _**If__Else statement:=**_
-
 + if else is used for checking the condition, if it is true then if block get execute otherwise else block get execute.
        
 Example - `Write a program to check number is even or odd using if else`
@@ -218,8 +208,6 @@ ________________________________________________________________________________
 <details><summary> Switch Case Statement:= </summary>
 <p>
      
-     
-     ##### **Switch Case Statement:= **
 If we are having multiple condition at a time like printing a month from 12 months then Switch case statement is used.
 
 Syntax of Switch Case Statement-
@@ -267,8 +255,6 @@ ________________________________________________________________________________
 <details><summary> While:= </summary>
 <p>
      
-     
-     ##### _**While:= **_ 
 
 While is used for Looping Purpose
 
@@ -310,8 +296,6 @@ ________________________________________________________________________________
 <details><summary> Nested While:= </summary>
 <p>
      
-     
-     ##### _**Nested While:= **_ 
 
 While in while loop=
 
@@ -346,8 +330,6 @@ ________________________________________________________________________________
 <details><summary> Do While := </summary>
 <p>
      
-     
-     ##### _**Do While := **_
 
 Do while is used for looping porpose, the major difference between while and do while is that do while executes statement once and then check the condition.
 Do while is a exit control loop
@@ -381,8 +363,7 @@ ________________________________________________________________________________
 <details><summary> For Loop :=  </summary>
 <p>
      
-     
-     ##### _**For Loop := **_
+
 
 For(initialization;termination;increment/decrement)
 
@@ -421,9 +402,7 @@ ________________________________________________________________________________
 
 <details><summary> Functions :=  </summary>
 <p>
-     
-     
-     ##### _**Functions := **_
+
 
 Function is a block of code which is used to accomplish a particular task.
 
@@ -473,9 +452,7 @@ ________________________________________________________________________________
 
 <details><summary> Arrays :=  </summary>
 <p>
-     
-     
-     ##### _**Arrays := **_
+
 
 Array is collection of data items having some data type.
 
@@ -499,8 +476,6 @@ ________________________________________________________________________________
 
 <details><summary> Class := </summary>
 <p>
-
-##### _**Class := **_
 
 Class is a user defined user defined data type which binds a different variables and functions inside a single unit that is called as a class
 
@@ -546,8 +521,6 @@ ________________________________________________________________________________
 <p>
 
 
-##### _**Array of Object := **_
-
 example `Pring information of three students using array in the object ( array of Objects ) : =`
 
 
@@ -561,8 +534,6 @@ ________________________________________________________________________________
 <details><summary> Contructor </summary>
 <p>
 
-
-##### _**Contructor := **_
 
 Contructor is a special member function having same name as class name.
 Contructor get automatically called when object is created. 
