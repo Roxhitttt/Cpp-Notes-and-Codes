@@ -521,8 +521,8 @@ ________________________________________________________________________________
 <p>
 
 
-example `Pring information of three students using array in the object ( array of Objects ) : =`
-
+example `Print information of three students using array in the object ( array of Objects ) : =`
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/fb8e1179b508b2e48d5e03ec0055bbe0b9efaa17/Basic_programs/Array_of_object.cpp
 
      
 </p>
@@ -545,13 +545,20 @@ There are three type of contructor:
 
 1. Default contructor 
 
-example - `Pring information of three students using array in the object ( array of Objects ) : =`
+Example - `Example of contructor of default contructor : =`
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/fb8e1179b508b2e48d5e03ec0055bbe0b9efaa17/Basic_programs/constructor.cpp
 
 Example 1 - `Write a program to create the class product which accept the rate of 4 different product and qunatity of product, define a default contructor which defines the rate for 4 different product and also define the quantity function which accept the quantities for each product. Display the bill on the basis of rate and quantity using bill function.
  : =`
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/fb8e1179b508b2e48d5e03ec0055bbe0b9efaa17/Basic_programs/Contructor1.cpp
 
 
 2. Parameterised Contructor 
+
+Example - `Example of contructor of Parameterised contructor : =`
+
+Example - `Write a c++ program to accept length and breadth of rectangle used parameterized contructor and display area of rectangle. : =`
+
 3. Copy Contructor
 
 
