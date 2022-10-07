@@ -572,6 +572,9 @@ ________________________________________________________________________________
 <details><summary>  </summary>
 <p>
 
+     3x3 Matrices Multiplication Formula
+     ![image](https://user-images.githubusercontent.com/62470301/194571308-05c790a2-544a-439a-a524-d7c853ee6aec.png)
+
      
 </p>
 </details>
