@@ -34,9 +34,7 @@ int main()
     
     cout<<"Enter the length and breadth of the rectangle: "<<endl;
     cin>>a>>b;
-
-    int r=a*b;
-
+    
     area o(a,b);
     o.display();
     o.a_of_r();
