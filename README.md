@@ -556,8 +556,10 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/fb8e1179b508b2e48d5e03ec00
 2. Parameterised Contructor 
 
 Example - `Example of contructor of Parameterised contructor : =`
+     https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/24b49c9a16a86168b490a4ebf4e3d78d22a6cfb8/Basic_programs/Basic1_Programs/Contructor3.cpp
 
 Example - `Write a c++ program to accept length and breadth of rectangle used parameterized contructor and display area of rectangle. : =`
+     https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/24b49c9a16a86168b490a4ebf4e3d78d22a6cfb8/Basic_programs/Basic1_Programs/Contructor4.cpp
 
 3. Copy Contructor
 
@@ -569,6 +571,9 @@ Example - `Write a c++ program to accept length and breadth of rectangle used pa
 __________________________________________________________________________________________
 <details><summary>  </summary>
 <p>
+
+     3x3 Matrices Multiplication Formula
+     ![image](https://user-images.githubusercontent.com/62470301/194571308-05c790a2-544a-439a-a524-d7c853ee6aec.png)
 
      
 </p>
