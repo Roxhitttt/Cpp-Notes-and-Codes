@@ -130,6 +130,9 @@ Example 1- `Write a c++ program for the Selection of the student by above 70 per
 
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/541bcba7f666193f2acf75054da9839327672a7b/Basic_programs/Example.cpp
 
+Example 2 - `Write a c++ program to print multiplication of matrix`
+
+
 __________________________________________________________
 
  ##### **_If Statement:= _**
