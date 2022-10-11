@@ -130,6 +130,9 @@ Example 1- `Write a c++ program for the Selection of the student by above 70 per
 
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/541bcba7f666193f2acf75054da9839327672a7b/Basic_programs/Example.cpp
 
+Example 2 - `Write a c++ program to print multiplication of matrix`
+
+
 __________________________________________________________
 
  ##### **_If Statement:= _**
@@ -502,12 +505,15 @@ Using object we can access varaiables and functions outside the class.
 Example - `Simple example taking input from class and output in main fucntion using object : =`
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/8d2ab6175ead5065309e2aab3c57c17bf8d3863d/Basic_programs/Basic1_Programs/class1.cpp
 
-Example - `Same program but minor changes :Simple example taking input from class and output in main fucntion using object : =`
+Example 1 - `Same program but minor changes :Simple example taking input from class and output in main fucntion using object : =`
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/8d2ab6175ead5065309e2aab3c57c17bf8d3863d/Basic_programs/Basic1_Programs/class2.cpp
 
-Example - `create a class which accept the 2 variables no1 and no2 using get function and perform the addition using add,sub,div,mul functions. : =`
+Example 2 - `create a class which accept the 2 variables no1 and no2 using get function and perform the addition using add,sub,div,mul functions. : =`
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/8d2ab6175ead5065309e2aab3c57c17bf8d3863d/Basic_programs/Basic1_Programs/class3.cpp
 
+Example 3 - `create a class to print Marksheet of Markts and percentage taking 5 subjects, and printing their class as pass and all : =`
+
+Example 3 - `Passing Class Object as Argument  : =`
 
 </p>
 </details>
@@ -558,10 +564,14 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/fb8e1179b508b2e48d5e03ec00
 Example - `Example of contructor of Parameterised contructor : =`
      https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/24b49c9a16a86168b490a4ebf4e3d78d22a6cfb8/Basic_programs/Basic1_Programs/Contructor3.cpp
 
-Example - `Write a c++ program to accept length and breadth of rectangle used parameterized contructor and display area of rectangle. : =`
+Example 1 - `Write a c++ program to accept length and breadth of rectangle used parameterized contructor and display area of rectangle. : =`
      https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/24b49c9a16a86168b490a4ebf4e3d78d22a6cfb8/Basic_programs/Basic1_Programs/Contructor4.cpp
 
 3. Copy Contructor
+
+Example - `Example of contructor of Copy Contructor : =`
+
+Example 1 - `Write a c++ program to print Time as Hour/Minute/Second and then Add it to another object. : =`
 
 
      
@@ -572,10 +582,7 @@ ________________________________________________________________________________
 <details><summary>  </summary>
 <p>
 
-     3x3 Matrices Multiplication Formula
-     ![image](https://user-images.githubusercontent.com/62470301/194571308-05c790a2-544a-439a-a524-d7c853ee6aec.png)
-
-     
+Write a c++ program to display time and add times and display it.
 </p>
 </details>
 
