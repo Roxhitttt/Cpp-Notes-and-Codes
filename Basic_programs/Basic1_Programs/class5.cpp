@@ -23,7 +23,7 @@ class result
 
     int display()
     {
-        int per=0;
+        int per;
         int c;
         c=0;
         if(phy<35)
@@ -57,6 +57,7 @@ class result
         if(c==0)
         {
             cout<<"Pass"<<endl;
+            per=(phy+maths+chem+bio+it)*100/500;
             cout<<"Your percentage is: "<<per<<endl;
         }
 
