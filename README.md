@@ -131,7 +131,7 @@ Example 1- `Write a c++ program for the Selection of the student by above 70 per
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/541bcba7f666193f2acf75054da9839327672a7b/Basic_programs/Example.cpp
 
 Example 2 - `Write a c++ program to print multiplication of matrix`
-
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/7c0042f3ef4204e4bf8f5bfc823bc046955b3a62/Basic_programs/Basic1_Programs/Matrix_mul.cpp
 
 __________________________________________________________
 
@@ -512,8 +512,10 @@ Example 2 - `create a class which accept the 2 variables no1 and no2 using get f
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/8d2ab6175ead5065309e2aab3c57c17bf8d3863d/Basic_programs/Basic1_Programs/class3.cpp
 
 Example 3 - `create a class to print Marksheet of Markts and percentage taking 5 subjects, and printing their class as pass and all : =`
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/7c0042f3ef4204e4bf8f5bfc823bc046955b3a62/Basic_programs/Basic1_Programs/class5.cpp     
 
 Example 3 - `Passing Class Object as Argument  : =`
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/7c0042f3ef4204e4bf8f5bfc823bc046955b3a62/Basic_programs/Basic1_Programs/passing_class_object_as_argument.cpp
 
 </p>
 </details>
@@ -570,9 +572,10 @@ Example 1 - `Write a c++ program to accept length and breadth of rectangle used 
 3. Copy Contructor
 
 Example - `Example of contructor of Copy Contructor : =`
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/7c0042f3ef4204e4bf8f5bfc823bc046955b3a62/Basic_programs/Basic1_Programs/copyconstrtor.cpp
 
 Example 1 - `Write a c++ program to print Time as Hour/Minute/Second and then Add it to another object. : =`
-
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/7c0042f3ef4204e4bf8f5bfc823bc046955b3a62/Basic_programs/Basic1_Programs/Clock.cpp
 
      
 </p>
@@ -582,7 +585,7 @@ ________________________________________________________________________________
 <details><summary>  </summary>
 <p>
 
-Write a c++ program to display time and add times and display it.
+     
 </p>
 </details>
 
