@@ -582,10 +582,26 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/7c0042f3ef4204e4bf8f5bfc82
 </details>
 
 __________________________________________________________________________________________
-<details><summary>  </summary>
+##### _**Inheritance := **_
+
+<details><summary> Inheritance </summary>
 <p>
 
-     
+Inhertance is a process in which we are going to create a new class from existing class or inheritance is the process which derived new class from old class.
+
+Syntax :
+
+Class derived_class_name:access specifier base_class_name
+{
+
+};
+
+Example - `Example of Inhertance : =`
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/12a2ef1fbafa0247d821f3fe40dc16d979b311c8/Basic_programs/Basic1_Programs/inheritance.cpp
+
+Example 1 - `write a c++ program to create a class called as square which accept length and inherit it with class rectangle which accept breadth of a rectangle, display area of square and area of rectangle. : =`
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/12a2ef1fbafa0247d821f3fe40dc16d979b311c8/Basic_programs/Basic1_Programs/inheritance1.cpp
+
 </p>
 </details>
 
