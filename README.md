@@ -602,6 +602,36 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/12a2ef1fbafa0247d821f3fe40
 Example 1 - `write a c++ program to create a class called as square which accept length and inherit it with class rectangle which accept breadth of a rectangle, display area of square and area of rectangle. : =`
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/12a2ef1fbafa0247d821f3fe40dc16d979b311c8/Basic_programs/Basic1_Programs/inheritance1.cpp
 
+Example 2 - `Create a class student which have variable as id,name,class, called as square which accept length and inherit it with rectangle also accept breadth display area of square and rectangle : =`
+
+Example 3 - `Example of Inhertance : =`
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/1563f9626c4de09f8e12f372ddf92895456222bd/Basic_programs/Basic1_Programs/inheritance2.cpp
+
+Example 4 - `Example of Inhertance : =`
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/1563f9626c4de09f8e12f372ddf92895456222bd/Basic_programs/Basic1_Programs/inheritance3.cpp
+
+Protected member are accesseble within that class and the child class which is derived from that perticular class.
+
+When Base class is privately inherited by derived class, public member of base class become private members of derived class.
+
+The public member of base class can only be accessed by member function of derived class.
+
+They are inaccessible to the object of derived class.
+
+On other hand when the base class is publicly inherited by derived class, public member of base also become a public member of derived class.
+
+The public member of base class are accissible by the object of a derived class as well as by the member function of derived class.
+
+There are 5 types of Inheritance -
+
+1. Single inheritance.
+2. multiple inheritance.
+3.
+
+
+
+
+
 </p>
 </details>
 
