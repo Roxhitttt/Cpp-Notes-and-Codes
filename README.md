@@ -646,7 +646,11 @@ There are 5 types of Inheritance -
      Example 1 - `Example of multipule Inhertance : =`
      https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/e7733e312e927762ba2d61afab6947e6ee4a9cc5/Basic_programs/Basic1_Programs/multiple_inherit.cpp
      
-4. 
+4. Hybrid inheritance 
+     
+     Example 1 - `Example of multipule Inhertance : =`
+     
+     
 
 
 
