@@ -629,8 +629,24 @@ The public member of base class are accissible by the object of a derived class 
 There are 5 types of Inheritance -
 
 1. Single inheritance.
-2. multiple inheritance.
-3.
+     
+2. multi level inheritance.
+     
+     Example 1 - `Example of multi level Inhertance : =`
+     https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/e7733e312e927762ba2d61afab6947e6ee4a9cc5/Basic_programs/Basic1_Programs/mul_lev_inheritance1.cpp
+     
+      Example 2 - `Example of multi level Inhertance : =`
+     https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/e7733e312e927762ba2d61afab6947e6ee4a9cc5/Basic_programs/Basic1_Programs/mul_lev_inheritance2.cpp
+     
+      Example 3 - `Example of multi level Inhertance : =`
+     https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/e7733e312e927762ba2d61afab6947e6ee4a9cc5/Basic_programs/Basic1_Programs/mul_lev_inheritance3.cpp
+     
+3. Multiple inheritance- Two base class gives on child class
+     
+     Example 1 - `Example of multipule Inhertance : =`
+     https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/e7733e312e927762ba2d61afab6947e6ee4a9cc5/Basic_programs/Basic1_Programs/multiple_inherit.cpp
+     
+4. 
 
 
 
