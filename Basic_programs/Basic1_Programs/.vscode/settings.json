@@ -39,5 +39,20 @@
     "tuple": "cpp",
     "utility": "cpp",
     "string_view": "cpp"
-  }
+  },
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "FirstMySQL Connection",
+      "database": "myshop",
+      "username": "roxhitttt",
+      "password": "Zyanmalik@9156"
+    }
+  ]
 }
