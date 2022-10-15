@@ -125,6 +125,8 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/541bcba7f666193f2acf75054d
 </p>
 </details>
 __________________________________________________________
+<details><summary> Examples := </summary>
+<p>
 
 Example 1- `Write a c++ program for the Selection of the student by above 70 percentage and in 1 attempt`
 
@@ -133,6 +135,8 @@ https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/541bcba7f666193f2acf75054d
 Example 2 - `Write a c++ program to print multiplication of matrix`
 https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/7c0042f3ef4204e4bf8f5bfc823bc046955b3a62/Basic_programs/Basic1_Programs/Matrix_mul.cpp
 
+</p>
+</details>
 __________________________________________________________
 
  ##### **_If Statement:= _**
