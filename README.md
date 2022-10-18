@@ -674,6 +674,23 @@ ________________________________________________________________________________
 <details><summary> Polymorphisom  :=  </summary>
 <p>
 
+It is a ability to take more than 1 form.
+In it single functino or operator can be use for many purpose.
+Their are two types of polymorphism
+1. Static Polymorphism ( Compile time )
+2. Dynamic Polymorphism ( Runtime )
+
+##### Function overloading in cPP
+
+Function overloading is a feature of c++ programming where two or more function can have same name but different parameter list.
+This is a example of Compile time Polymorphism as given in below program.
+ADD is function which is overload 
+in first add function only one parameter is passed.
+in second add functon two parameters are passed.
+when we called add function compiler compares number of arguments passed to the function and called that particular function.
+
+Example 1 - `Example of Function overloading : =`
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/333b31648e948a75380793c5ef36f03ece821571/Basic_programs/Basic1_Programs/function_overloading.cpp
 
 
      
@@ -711,4 +728,7 @@ ________________________________________________________________________________
 
 
 Function cha 1 type baki ahe 
-arrays la mi abscent hoto 
+Inline function
+Virtual Baseclass
+
+
