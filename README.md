@@ -648,20 +648,33 @@ There are 5 types of Inheritance -
      
 4. Hybrid inheritance 
      
-     Example 1 - `Example of multipule Inhertance : =`
+     Example 1 - `Example of Hybrid Inhertance : =`
+     https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/5fde68d2a66f16cf125ab5082a8a062495683dcc/Basic_programs/Basic1_Programs/hybrid_inheritance.cpp
      
+5. Hirarchichal Inheritance
+
+     Example 1 - `Example of Hirarchichal Inhertance : =`
+     https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/5fde68d2a66f16cf125ab5082a8a062495683dcc/Basic_programs/Basic1_Programs/herarchical_inheritance.cpp
      
+######## Call by value example :
 
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/5fde68d2a66f16cf125ab5082a8a062495683dcc/Basic_programs/Basic1_Programs/Call_by_value.cpp
 
+######## Inheitance with contructor:
 
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/5fde68d2a66f16cf125ab5082a8a062495683dcc/Basic_programs/Basic1_Programs/inheritance_with_contructor.cpp
 
 
 </p>
 </details>
 
 __________________________________________________________________________________________
-<details><summary>  </summary>
+##### _**Polymorphisom := **_
+
+<details><summary> Polymorphisom  :=  </summary>
 <p>
+
+
 
      
 </p>
