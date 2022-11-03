@@ -739,7 +739,7 @@ Example 1 - `Example of Operator overloading : =`
 __________________________________________________________________________________________
 <details><summary>  </summary>
 <p>
-
+Pointer is a variable which stores address of another varaiable.
      
 </p>
 </details>
@@ -767,6 +767,9 @@ ________________________________________________________________________________
 
 
 Function cha 1 type baki ahe 
+Pointers 
+Structure and unions
+
 Inline function
 Virtual Baseclass
 
