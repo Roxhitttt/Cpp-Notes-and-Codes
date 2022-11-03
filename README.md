@@ -674,8 +674,64 @@ ________________________________________________________________________________
 <details><summary> Polymorphisom  :=  </summary>
 <p>
 
+It is a ability to take more than 1 form.
+In it single functino or operator can be use for many purpose.
+Their are two types of polymorphism
+1. Static Polymorphism ( Compile time )
+2. Dynamic Polymorphism ( Runtime )
 
+##### Function overloading in cPP
 
+Function overloading is a feature of c++ programming where two or more function can have same name but different parameter list.
+This is a example of Compile time Polymorphism as given in below program.
+ADD is function which is overload 
+in first add function only one parameter is passed.
+in second add functon two parameters are passed.
+when we called add function compiler compares number of arguments passed to the function and called that particular function.
+
+Example 1 - `Example of Function overloading : =`
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/333b31648e948a75380793c5ef36f03ece821571/Basic_programs/Basic1_Programs/function_overloading.cpp
+
+Example 1 - `Write a c++ program to overload the max function which accept two and three arguments : =`
+     
+##### Operator Overloading in CPP
+     
+     Operator overloading is the concept which is use to give a spacial meaning to function which are provide by c++ programming languauge.
+     
+     It means that we can use a built in operator to perform action on a different types of data items 
+     
+     for example + sign is mostly used to perform arithmatic operation but if we use + sign with two string varaiables then it go into perform the operation addition on string which we called as concatation meand real meaning of the operator does not change but only type of varaible is change.
+     
+     in Operator overloading we give the special meaning to the operator.
+     
+     There are certain operator that cannot be overlaod 
+1. Scope resolution operator ::
+     
+2. Size of operator 
+     
+3. Condition operator( ternary operator - ?;:
+     
+4. Dot operator .
+     
+5. Pointer operator *
+     
+Rules for Operator Overloading 
+     1. existing operator can be overload.
+     2.the overlaoded operator contain atleast one operand of user defined data type 
+     3. we cannot use friend function to overlaod certain operators. However member function can to use to overlaod the operator 
+     4. When unray operator are overloaded to member function takes no explicit argument but if they are overloaded by friend function takes one argument 
+     5. When binary operator are overlaoded to a member function it takes one explicit argument and if they overlaoded through the friend function it takes two explicit argument.
+     
+Syntax of operator overlaoding 
+     
+     return_type operator op(argument_list)
+     
+Where return_type is a type of value return by the function
+operator is a keyword.
+op is a operator.
+     
+Example 1 - `Example of Operator overloading : =`
+     
      
 </p>
 </details>
@@ -711,4 +767,7 @@ ________________________________________________________________________________
 
 
 Function cha 1 type baki ahe 
-arrays la mi abscent hoto 
+Inline function
+Virtual Baseclass
+
+
