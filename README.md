@@ -731,15 +731,33 @@ operator is a keyword.
 op is a operator.
      
 Example 1 - `Example of Operator overloading : =`
+     https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1_Programs/Array1.cpp
+     
+Example 2 - `Example of Operator overloading : =`
+     https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1_Programs/Array1.cpp
      
      
 </p>
 </details>
 
 __________________________________________________________________________________________
+##### _**Pointers := **_
+
 <details><summary>  </summary>
 <p>
+     
 Pointer is a variable which stores address of another varaiable.
+     
+Syntax:
+Data_type *pointer_name=&varialbe
+
+Example 1 - `Example of Pointer : =`
+     https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1_Programs/Array1.cpp
+     
+Example 2 - Example of Pointer is used as argument to the function : =`
+     https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1_Programs/Array1.cpp
+     
+Example 3 - Example of Pointer of class object : =`
      
 </p>
 </details>
@@ -767,7 +785,6 @@ ________________________________________________________________________________
 
 
 Function cha 1 type baki ahe 
-Pointers 
 Structure and unions
 
 Inline function
