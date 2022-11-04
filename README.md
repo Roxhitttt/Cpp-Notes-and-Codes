@@ -758,6 +758,7 @@ Example 2 - Example of Pointer is used as argument to the function : =`
      https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1_Programs/Array1.cpp
      
 Example 3 - Example of Pointer of class object : =`
+     https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/1f7b53d7290a40e112c9e7508d11cda7dceaf869/Basic_programs/Basic1_Programs/pointer3.cpp#L8
      
 </p>
 </details>
@@ -786,6 +787,8 @@ ________________________________________________________________________________
 
 Function cha 1 type baki ahe 
 Structure and unions
+Friend Function
+Exception handling
 
 Inline function
 Virtual Baseclass
