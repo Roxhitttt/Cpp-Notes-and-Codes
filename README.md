@@ -743,7 +743,7 @@ Example 2 - `Example of Operator overloading : =`
 __________________________________________________________________________________________
 ##### _**Pointers := **_
 
-<details><summary>  </summary>
+<details><summary> Pointers </summary>
 <p>
      
 Pointer is a variable which stores address of another varaiable.
@@ -764,6 +764,27 @@ Example 3 - Example of Pointer of class object : =`
 </details>
 
 __________________________________________________________________________________________
+##### _**File Handling  := **_
+
+
+<details><summary> File Handling </summary>
+<p>
+
+It is used to pass current object as parameter to another method.
+It can be use to reffer current class instant variable 
+
+Example 1 - `Example of This Pointer  : =`
+https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/db296e0985e777962aa57bd8b6407f1ec90a1bf6/Basic_programs/Basic1_Programs/Thispointer.cpp#L5
+     
+Example 2 - Example of This Pointer : =`
+https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/db296e0985e777962aa57bd8b6407f1ec90a1bf6/Basic_programs/Basic1_Programs/Thispointer1.cpp#L9
+     
+</p>
+</details>
+
+__________________________________________________________________________________________
+##### _**This Pointer  := **_
+
 <details><summary>  </summary>
 <p>
 
@@ -772,6 +793,8 @@ ________________________________________________________________________________
 </details>
 
 __________________________________________________________________________________________
+##### _**This Pointer  := **_
+
 <details><summary>  </summary>
 <p>
 
@@ -781,8 +804,60 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________
 
+##### _**This Pointer  := **_
 
+<details><summary>  </summary>
+<p>
 
+     
+</p>
+</details>
+
+__________________________________________________________________________________________
+
+##### _**This Pointer  := **_
+
+<details><summary>  </summary>
+<p>
+
+     
+</p>
+</details>
+
+__________________________________________________________________________________________
+
+##### _**This Pointer  := **_
+
+<details><summary>  </summary>
+<p>
+
+     
+</p>
+</details>
+
+__________________________________________________________________________________________
+
+##### _**This Pointer  := **_
+
+<details><summary>  </summary>
+<p>
+
+     
+</p>
+</details>
+
+__________________________________________________________________________________________
+
+##### _**This Pointer  := **_
+
+<details><summary>  </summary>
+<p>
+
+     
+</p>
+</details>
+
+__________________________________________________________________________________________
 
 
 Function cha 1 type baki ahe 
