@@ -20,5 +20,5 @@ int main()
     {
         cout<<"Division by zero";
     }
-    return 0;
+    
 }
