@@ -806,6 +806,10 @@ Throw - It is use to throw exception when problem occur and can be called from a
 
 Example 1 - `Example of Exception dividing by zero : =`
 https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1_Programs/Exception_devide_zero.cpp#L15
+     
+
+Example 1 - `Example of Exception of array index out of bound : =`
+https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1_Programs/Exception_array_outof_bond.cpp#L9
           
 </p>
 </details>
