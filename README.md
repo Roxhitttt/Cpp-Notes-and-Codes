@@ -804,7 +804,9 @@ Catch - It determines the type of exception and provide a block of code which wi
 Throw Block:-
 Throw - It is use to throw exception when problem occur and can be called from anywhere in the program. The point where throw is executed is refered as to throw point.
 
-     
+Example 1 - `Example of Exception dividing by zero : =`
+https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1_Programs/Exception_devide_zero.cpp#L15
+          
 </p>
 </details>
 
