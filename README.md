@@ -764,10 +764,10 @@ Example 3 - Example of Pointer of class object : =`
 </details>
 
 __________________________________________________________________________________________
-##### _**File Handling  := **_
+##### _**This Pointer  := **_
 
 
-<details><summary> File Handling </summary>
+<details><summary> This Pointer </summary>
 <p>
 
 It is used to pass current object as parameter to another method.
@@ -783,10 +783,26 @@ https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/db296e0985e777962aa57bd8b6
 </details>
 
 __________________________________________________________________________________________
-##### _**This Pointer  := **_
+##### _** Exception Handling := **_
 
-<details><summary>  </summary>
+<details><summary> Exception Handling </summary>
 <p>
+An exception is a situation where program produce unexcepted error during the exception of the program. It is important to have a mechanism to deal with this situation or this exception.
+Exception handling is a technique that seperate error handling code from main code of the program.
+Exception can occur bcoz of following condition.
+1]An attempt to divide by 0.
+2]Accessing the array outside of bounds.
+3]Running out of memory.
+4]Running out of disk.
+
+Try Block:-
+Try - It is block of program code where exception is detected as soon as exception is detected try transfer the program control to the catch block by throwing the exception
+
+Catch Block:-
+Catch - It determines the type of exception and provide a block of code which will execute when exception is thrown, there can be multiple catch block in program depending upon type of exception arise. Catch is responsible for taking currective action for exception.
+
+Throw Block:-
+Throw - It is use to throw exception when problem occur and can be called from anywhere in the program. The point where throw is executed is refered as to throw point.
 
      
 </p>
@@ -865,7 +881,12 @@ Structure and unions
 Friend Function
 Exception handling
 
+File Handling 
+Virtual Function
+Templates and Exceptions
+
 Inline function
 Virtual Baseclass
+
 
 
