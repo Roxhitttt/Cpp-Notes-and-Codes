@@ -822,7 +822,72 @@ ________________________________________________________________________________
 
 <details><summary> File Handling </summary>
 <p>
+#include<fstream> - This is use for File Handling
+	
+	int main()
+	
+	{
+	
+    char info[30];
+	
+    char age[5];
+	
+    char add[30];
+	
+    ofstream of;
+	
+    of.open("demo.txt");
+	
+    cout<<"Now we are going to write into file"<<endl;
+	
+    cout<<"Enter your name";
+	
+    cin.getline(info,30);
+	
+    of<<info<<endl;
+	
+	of.close();
 
+    return 0;
+
+	}
+
+Here ofstream is an Class which is used to create or open the existing file to write the content in the text file.
+of is the object of the class.
+of.open("demo.text") is used to open the created or existing file to write the txt inside text file.
+cin.getline(info,30) is used to get the info variable from the console write the text.
+of<<info<<endl; is used to transfer the written content from the console to the text file.
+of.close(); is used to close the file.
+
+	
+Example 1 - `Example of File Handling to write a code into the file: =`
+https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1_Programs/file_hand_write.cpp#L14
+
+Example 2 - `Example of File Handling to read a code into the file: =`
+https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1_Programs/file_hand_read.cpp#L13
+
+Opening the file in C++.
+To read data from file or to write data into file we need to open it first, This can be performed with the help of |ifstream| for reading & |ofstream| for writing. 
+|fstream| for appending, all these three object have open() function pre-built in them.
+
+The syntax of open() function given below:
+
+	open(file_name,mode);
+	
+File name is a valid name of the file which we have to open.
+
+Mode- There are three different mode to open a file.
+
+	mode		description
+	
+	iso::in		File is open in read mode
+	iso::out	File is open in write mode
+	iso::app	File is open in append mode
+	iso::ate	File is open in append mode but read and write perform at the end of the file.
+	iso::binary	File is open in binary mode
+	iso::trunc	File is open in truncate mode
+	iso::nocreate	File is open only if it exist
+	iso::noreplace	File is open only if it does not exist 
 
 
      
