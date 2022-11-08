@@ -866,6 +866,30 @@ https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1
 Example 2 - `Example of File Handling to read a code into the file: =`
 https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1_Programs/file_hand_read.cpp#L13
 
+Opening the file in C++.
+To read data from file or to write data into file we need to open it first, This can be performed with the help of |ifstream| for reading & |ofstream| for writing. 
+|fstream| for appending, all these three object have open() function pre-built in them.
+
+The syntax of open() function given below:
+
+	open(file_name,mode);
+	
+File name is a valid name of the file which we have to open.
+
+Mode- There are three different mode to open a file.
+
+	mode		description
+	
+	iso::in		File is open in read mode
+	iso::out	File is open in write mode
+	iso::app	File is open in append mode
+	iso::ate	File is open in append mode but read and write perform at the end of the file.
+	iso::binary	File is open in binary mode
+	iso::trunc	File is open in truncate mode
+	iso::nocreate	File is open only if it exist
+	iso::noreplace	File is open only if it does not exist 
+
+
      
 </p>
 </details>
