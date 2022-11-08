@@ -866,9 +866,13 @@ https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1
 Example 2 - `Example of File Handling to read a code into the file: =`
 https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1_Programs/file_hand_read.cpp#L13
 
-Opening the file in C++.
+Opening the file in CLeft shift is used to write.
+Right shift is used to read.
 To read data from file or to write data into file we need to open it first, This can be performed with the help of |ifstream| for reading & |ofstream| for writing. 
 |fstream| for appending, all these three object have open() function pre-built in them.
+	
+Left shift is used to write.
+Right shift is used to read.
 
 The syntax of open() function given below:
 
@@ -889,7 +893,10 @@ Mode- There are three different mode to open a file.
 	iso::nocreate	File is open only if it exist
 	iso::noreplace	File is open only if it does not exist 
 
-
+Example 2 - `Example of File Handling to read write append and all : =`
+https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1_Programs/file_hand_mul.cpp#L11
+	
+https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1_Programs/file_hand_mul2.cpp#L8
      
 </p>
 </details>
