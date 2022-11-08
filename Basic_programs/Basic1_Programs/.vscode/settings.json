@@ -39,7 +39,8 @@
     "tuple": "cpp",
     "utility": "cpp",
     "string_view": "cpp",
-    "random": "cpp"
+    "random": "cpp",
+    "fstream": "cpp"
   },
   "sqltools.connections": [
     {
