@@ -40,7 +40,8 @@
     "utility": "cpp",
     "string_view": "cpp",
     "random": "cpp",
-    "fstream": "cpp"
+    "fstream": "cpp",
+    "iosfwd": "cpp"
   },
   "sqltools.connections": [
     {
