@@ -897,6 +897,8 @@ Example 2 - `Example of File Handling to read write append and all : =`
 https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1_Programs/file_hand_mul.cpp#L11
 	
 https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1_Programs/file_hand_mul2.cpp#L8
+
+https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1_Programs/file_hand_mul3.cpp#L21
      
 </p>
 </details>
