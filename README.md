@@ -917,6 +917,8 @@ tellg(),tellp() - these function return the current position of get and put poin
 
 Example 3 - `Example of Positioning File Pointer  : =`
 https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1_Programs/positioning_file_pointer.cpp#L12
+	
+Example 4 - `Example of Positioning File Pointer  : =`
 
      
 </p>
