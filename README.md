@@ -899,6 +899,25 @@ https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1
 https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1_Programs/file_hand_mul2.cpp#L8
 
 https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1_Programs/file_hand_mul3.cpp#L21
+
+### Positioning File Pointer 
+When you open a file in more than one mode using fstream class, it is not necessary to close the file and open it agaain. when you need to switch from one mode to another mode, but if you are writing and reading in different position of the file then the stream pointer have to be position appropriately, each file object has associated with 2 inter value called the gate pointer and the put pointer, these are also called as current gate position and the current put position or simple the current position, these values specify in the bit number in the file where reading or writing take place.
+
+Function to move file pointer:
+1. seekg() - for get a pointer
+2. seekp() - for put pointer 
+
+These function takes 2 argument - first argument is realative offset, that is the number of bytes the file pointer has to be moved
+second argument is the position of file pointer from where offset is to be consider
+
+seekg(5,ios::end);
+seekp(5,ios::cur);
+
+tellg(),tellp() - these function return the current position of get and put pointer in byte.
+
+Example 3 - `Example of Positioning File Pointer  : =`
+https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1_Programs/positioning_file_pointer.cpp#L12
+
      
 </p>
 </details>
