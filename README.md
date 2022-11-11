@@ -936,11 +936,49 @@ ________________________________________________________________________________
 </details>
 
 __________________________________________________________________________________________
+##### _** Inline Function := **_
 
-##### _**This Pointer  := **_
+##### _**Inline Function  := **_
 
 <details><summary>  </summary>
 <p>
+Inline Function
+If we declare function using inline keyward then that function is called as Inline Function.
+IF the function is inline Then Compiler replace the function calling location with the defination of the inline function at a time of compilation.
+
+Syntax of Inline Funtion is given below:
+
+inline return_type function_name(parameters)
+
+{
+
+Statements
+
+}
+
+The main use of inline function is to save memory space.
+
+We cannot use Inline function in following situation: 
+1. If the function is recurive then it is not used.
+2. If a function contain loop-for loop then it is not used.
+3. If contain Static variable then it is not used.
+4. If function contain switch statement then it is not used.
+
+Inline function can be used in following siuation:
+1.When the function's performance is required.( operation required).
+2.It can be used over the micros.
+3.we can use inline function outside the class so that we can hide internal implementation of the function.
+
+Advantage:
+1.In the inline function, we do not need to call the function so it does not cause any overhead.
+2.It can also save overhead of return statement from function.
+3.It does not required any stack on which we can push or pop the variables as it does not perform any function calling.
+4.Inline function is beneficial for embeded system as it yields less code than normal function.
+
+Disadvantage:
+1.The Variables that are created inside inline function will consume additional reigesters, if the variables increased then use of reigesters also increases which may incease the overhead on register variable resource utilization.
+2.If we use many inline function then binary executable file also become large.
+3.use of inline function can reduce the intruction cache hit rate,reduces the speed of intruction, fetch from the cache memory to that of primary memory.
 
      
 </p>
