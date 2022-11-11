@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-    fstream f;
+    fstream f; 
     char s[10];
     f.open("d:\\demo.txt",ios::out);
     int x;
