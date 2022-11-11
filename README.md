@@ -925,17 +925,6 @@ Example 4 - `Example of Positioning File Pointer  : =`
 </details>
 
 __________________________________________________________________________________________
-
-##### _**This Pointer  := **_
-
-<details><summary>  </summary>
-<p>
-
-     
-</p>
-</details>
-
-__________________________________________________________________________________________
 ##### _** Inline Function := **_
 
 ##### _**Inline Function  := **_
@@ -980,7 +969,9 @@ Disadvantage:
 2.If we use many inline function then binary executable file also become large.
 3.use of inline function can reduce the intruction cache hit rate,reduces the speed of intruction, fetch from the cache memory to that of primary memory.
 
-     
+Example 4 - `Example of inline function  : =`
+https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1_Programs/task.cpp#L10
+	
 </p>
 </details>
 
