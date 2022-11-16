@@ -927,9 +927,7 @@ Example 4 - `Example of Positioning File Pointer  : =`
 __________________________________________________________________________________________
 ##### _** Inline Function := **_
 
-##### _**Inline Function  := **_
-
-<details><summary>  </summary>
+<details><summary> Inline Function </summary>
 <p>
 Inline Function
 If we declare function using inline keyward then that function is called as Inline Function.
@@ -976,12 +974,37 @@ https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1
 </details>
 
 __________________________________________________________________________________________
+##### _** Templates := **_
 
-##### _**This Pointer  := **_
+##### _**Templates  := **_
 
 <details><summary>  </summary>
 <p>
+Template is similar to a blueprint that creates a generic class or a function that reduces code duplication and includes independent writing of a code of any partucular type. Template are the base of generic programming. Template class does not depend on the data type it deals with.
 
+Syntax : 
+
+	template<parameter list> 
+
+Here template is a keyword, parameter list is a list of template parameters and declaration of class and function.
+
+	template<class my_type>
+	
+	class my_class(...);
+	
+The special functions that specify a group of functions which can work with generic types are referred to as function templates.
+
+Syntax - 
+	
+	template<class type>
+	
+	return_type function_name(parameter list)
+	
+	{
+	
+	}
+
+Example 1 - `Example of templates  : =`
      
 </p>
 </details>
@@ -1014,13 +1037,9 @@ ________________________________________________________________________________
 Function cha 1 type baki ahe 
 Structure and unions
 Friend Function
-Exception handling
 
-File Handling 
 Virtual Function
-Templates and Exceptions
-
-Inline function
+Templates
 Virtual Baseclass
 
 
