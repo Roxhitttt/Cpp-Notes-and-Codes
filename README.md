@@ -1004,8 +1004,29 @@ Syntax -
 	
 	}
 
-Example 1 - `Example of templates  : =`
+Example 1 - `Example of function templates  : =`
+https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1_Programs/templates.cpp#L7
+
+Example 2 - `Example of templates  : =`
+https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1_Programs/templates2.cpp#L15
+
+We can define a class template in the same way as a function template. A class template contains members that use template parameter as a type and are use for defining container classes.
      
+Syntax - 
+
+	template <class_type>
+	
+	class class_name
+	
+	{
+	
+	code here;
+	
+	}
+	
+Example 1 - 'Example of Class templates :='
+
+
 </p>
 </details>
 
