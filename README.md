@@ -1074,6 +1074,9 @@ Using namesapce you can define variable, function, class in essence namespace de
 
 Example 1 - 'Example of Namespaces of name function name :='
 https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1_Programs/namespaces.cpp#L18
+	
+Example 2 - 'Example of Namespaces of Class :='
+https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1_Programs/Namespaces1.cpp#L14	
 
 
 </p>
