@@ -1025,7 +1025,11 @@ Syntax -
 	}
 	
 Example 1 - 'Example of Class templates :='
+https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1_Programs/template3.cpp#L13
 
+
+Example 2 - 'Example of Class templates :='
+https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1_Programs/template4.cpp#L16
 
 </p>
 </details>
