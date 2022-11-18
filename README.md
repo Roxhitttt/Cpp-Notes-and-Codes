@@ -1035,8 +1035,24 @@ https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1
 </details>
 
 __________________________________________________________________________________________
+##### _**Pre-Processor Directives and Macro defination Directives := **_
 
-##### _**This Pointer  := **_
+##### _**Pre-Processor Directives and Macro defination Directives  := **_
+
+A pre processor is the utility program that pre processeses information before the actual compilation begin, in other word it is evaluate before the compilation.
+The pre-processor Directives start with # sign and do not end with semi colon ; as they are not a statement.
+
+Example 1 - 'Example of Pre-processor Directives of Library Files :='
+https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1_Programs/myfile.h#L8
+https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1_Programs/pre_procsessor.cpp#L13
+
+Macro defination Directives
+Macro is a piece of code or sequence of text which is given a name you can defile micro using # define pre processor directives.
+While defining Macro you have to provide a name or identifier to macro and a text to be subsituated. These text to be subsituated can be a text, formula, value or small code.
+When preprocesser find these micros in the preprocess source file it will replace the micro with substitution text.
+
+Example 1 - 'Example of Pre-processor Directives of Library Files :='
+https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1_Programs/macro_define_preprocessor.cpp#L12
 
 <details><summary>  </summary>
 <p>
@@ -1047,12 +1063,19 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________
 
-##### _**This Pointer  := **_
+##### _** Namespaces := **_
 
-<details><summary>  </summary>
+<details><summary> Namespaces  </summary>
 <p>
 
-     
+Namespaces in C++ are used to organize in many classes so that you can easily handle the application
+Namespace provide you the space were you can define or declare identifier that is varialbe,method(function,classes.
+Using namesapce you can define variable, function, class in essence namespace define scope.
+
+Example 1 - 'Example of Namespaces of name function name :='
+https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1_Programs/namespaces.cpp#L18
+
+
 </p>
 </details>
 
@@ -1062,10 +1085,6 @@ ________________________________________________________________________________
 Function cha 1 type baki ahe 
 Structure and unions
 Friend Function
-
 Virtual Function
-Templates
 Virtual Baseclass
-
-
-
+pointers
