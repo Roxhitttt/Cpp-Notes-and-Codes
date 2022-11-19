@@ -1083,6 +1083,17 @@ https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1
 
 Example 2 - 'Example of Pre-processor Directives of Library Files :='
 https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1_Programs/Conditional_compilation_directive1.cpp#L14
+	
+	
+#line - The #line Directive is used to change the value of the __LINE__ and __FILE__ macros, which represent the line being read and the file being read, respectively.
+	
+#pragma - The #pragma directive is also called compiler-specific directive and allows suppression of error messages, and manages heap and stack debugging. It also specifies diverse options to the compilek which are used to specify the platform and compiler you use.
+	
+__STDC__ It specifies to use standard C/C++ code only in the program.
+	
+__OBJC__ It is used to test whether a header file is compiled by a C Compiler or an objective-C Compiler.
+	
+__ASSEMBLER__ It specifies the value of 1 when preprocessing assembly language.
 
 <details><summary>  </summary>
 <p>
