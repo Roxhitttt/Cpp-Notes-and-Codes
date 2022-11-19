@@ -1054,6 +1054,36 @@ When preprocesser find these micros in the preprocess source file it will replac
 Example 1 - 'Example of Pre-processor Directives of Library Files :='
 https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1_Programs/macro_define_preprocessor.cpp#L12
 
+Conditional Compilation Directives 
+Like the conditional statement we can also write conditional micros that can be execute predefine lines based upon specified condition.
+The conditional compilation directives is used to compile the selected portion of a program source code.
+The conditional compilation derecitives provides following featuress:
+1. They execute a code on different machine architecture
+2. They are used for debugging purpose.
+3. They enable the program to control the execution of pre processor directives and the compilation of program code.
+4. Micro can be dependent on other micros.
+5. The evaluation of code to be executed depends upon requirement of the code 
+6. You can evaluate the constant integer expression.
+
+#ifdef
+
+      Statements
+      
+#else
+
+      Statements
+      
+#endif
+
+--------------
+#error - the # error directive terminate the program and display the error massage by the compiler.
+
+Example 1 - 'Example of Pre-processor Directives of Library Files :='
+https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1_Programs/Conditional_compilation_directive.cpp#L13
+
+Example 2 - 'Example of Pre-processor Directives of Library Files :='
+https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1_Programs/Conditional_compilation_directive1.cpp#L14
+
 <details><summary>  </summary>
 <p>
 
