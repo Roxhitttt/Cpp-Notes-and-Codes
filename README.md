@@ -1037,8 +1037,9 @@ https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1
 __________________________________________________________________________________________
 ##### _**Pre-Processor Directives and Macro defination Directives := **_
 
-##### _**Pre-Processor Directives and Macro defination Directives  := **_
-
+<details><summary> Pre-Processor Directives and Macro defination Directives   </summary>
+<p>
+	
 A pre processor is the utility program that pre processeses information before the actual compilation begin, in other word it is evaluate before the compilation.
 The pre-processor Directives start with # sign and do not end with semi colon ; as they are not a statement.
 
@@ -1075,7 +1076,14 @@ The conditional compilation derecitives provides following featuress:
       
 #endif
 
+</p>
+</details>
 --------------
+<details><summary> #error   </summary>
+<p>
+
+	
+
 #error - the # error directive terminate the program and display the error massage by the compiler.
 
 Example 1 - 'Example of Pre-processor Directives of Library Files :='
@@ -1094,10 +1102,6 @@ __STDC__ It specifies to use standard C/C++ code only in the program.
 __OBJC__ It is used to test whether a header file is compiled by a C Compiler or an objective-C Compiler.
 	
 __ASSEMBLER__ It specifies the value of 1 when preprocessing assembly language.
-
-<details><summary>  </summary>
-<p>
-
      
 </p>
 </details>
@@ -1124,10 +1128,29 @@ https://github.dev/Roxhitttt/Cpp-Notes-and-Codes/blob/main/Basic_programs/Basic1
 </details>
 
 __________________________________________________________________________________________
+##### _** Structure and unions := **_
+
+<details><summary> Structure and unions  </summary>
+<p>
+
+Structures - 
+
+Example 1 - 'Example of Namespaces of name function name :='
+
+	
 
 
+
+</p>
+</details>
+__________________________________________________________________________________________
+
+	
+	
+	
+	
 Function cha 1 type baki ahe 
-Structure and unions
+
 Friend Function
 Virtual Function
 Virtual Baseclass
