@@ -1134,10 +1134,20 @@ ________________________________________________________________________________
 <p>
 
 Structures - 
+Structure is a variable that is different types of varaible under the same name the data element will have different types and different length.
 
 Example 1 - 'Example of Namespaces of name function name :='
-
+https://github.com/Roxhitttt/Cpp-Notes-and-Codes/blob/82cb8329ed5476ec9d15ee47833e88813c27b4c5/Basic_programs/Basic1_Programs/structures.cpp
 	
+Union - Union is a user defined data type containing all the members that are stored at the same address. They use the same memory as other object from the list of object.
+For holding more than one variable it use only a single memory location.
+The member of Union can only be accessed one at a time. Union can contain no more than one object from its member list at a given point of time.
+	
+Union and structure are similar in way that both are collection of different data type 
+each member of structure has seperate storage location while Union stored value of various data type at a single location.
+	
+Example 2 - 'Example of Namespaces of name function name :='	
+Basic_programs/Basic1_Programs/Union.cpp
 
 
 
@@ -1150,7 +1160,6 @@ ________________________________________________________________________________
 	
 	
 Function cha 1 type baki ahe 
-
 Friend Function
 Virtual Function
 Virtual Baseclass
